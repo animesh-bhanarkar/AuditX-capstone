@@ -125,3 +125,11 @@ Get a free Gemini API key at [Google AI Studio](https://aistudio.google.com).
 ## Track
 
 Submitted to the **Agents for Business** track of the [AI Agents: Intensive Vibe Coding Capstone Project](https://www.kaggle.com/competitions/vibecoding-agents-capstone-project).
+
+## Screenshots
+
+![Dashboard View](assets/screenshot1.png)
+
+![Metrics View](assets/screenshot2.png)
+
+![Report View](assets/screenshot3.png)
