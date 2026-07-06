@@ -1,0 +1,618 @@
+expense_id,employee_name,employee_email,department,category,vendor,amount,currency,date,card_last4,approver_name,region
+9fb89abd-35c4-4401-8b41-fff79a87df1b,Ethan Adams,ethan.adams@example.com,Operations,Client Entertainment,Patton-Jenkins,713.1,USD,2025-06-07,5010,John Daniel,Europe
+c21aa91c-4ab2-4fd2-b72e-7163f8b4605e,Sherri Baker,sherri.baker@example.com,Finance,Client Entertainment,Green LLC,177.19,USD,2025-05-28,7252,Crystal Robinson,Latin America
+80ed2d74-0fe8-4dc4-bb66-cd24644e5850,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Travel,"Lee, Horton and Snyder",1716.48,USD,2025-12-23,3340,Danny Morgan,Asia Pacific
+c8be63b6-30fd-4e03-a20e-f4e2004b2e18,Carla Gray,carla.gray@example.com,Finance,Office Supplies,"Wilson, Pena and Rich",141.06,USD,2025-01-23,6977,Michael Lewis,Europe
+5be84ebb-c9bf-45e9-8aef-c571e6b1a432,Brittany Farmer,brittany.farmer@example.com,Marketing,Meals,Meadows PLC,59.13,USD,2025-07-03,2827,Danny Morgan,Asia Pacific
+8c003abf-d54f-4ffe-829f-d7044bd82758,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Travel,"Choi, Garcia and Farmer",1012.1,USD,2025-05-06,3340,Danny Morgan,Asia Pacific
+d8326614-c9b9-48da-b1c0-86d33caeaec5,Jeffrey Chavez,jeffrey.chavez@example.com,Engineering,Software,Herman-Walker,274.03,USD,2025-04-19,7916,John Daniel,North America
+085331f1-75e7-46fb-be9a-342ff9c0fbd9,Philip Cannon,philip.cannon@example.com,Operations,Meals,Cook and Sons,68.89,USD,2025-01-01,6310,John Daniel,Latin America
+c6a28ee6-16c5-4735-b1b1-b5f5467ea8d7,Angie Henderson,angie.henderson@example.com,Sales,Lodging,Bennett Group,221.44,USD,2025-10-25,9935,John Daniel,North America
+7e974a69-f878-4bd0-9af1-5c6bf04f5e87,Carla Gray,carla.gray@example.com,Finance,Lodging,"Rivera, Martinez and Richardson",446.28,USD,2025-09-02,6977,Jessica Holmes,Europe
+3684a5b6-7b51-4b74-b6a8-d7466261c0f1,Gina Moore,gina.moore@example.com,Engineering,Software,Lopez-Martinez,888.33,USD,2025-04-21,8359,John Daniel,Asia Pacific
+684e6ea8-89b4-4555-a96a-07a817b0a3f0,Justin Baker,justin.baker@example.com,Marketing,Lodging,"Moore, Hopkins and Le",310.68,USD,2025-07-02,7572,Brent Jordan,Asia Pacific
+dc5205ae-0e41-4e6a-91c9-82b6924ebb37,Derek Zuniga,derek.zuniga@example.com,Marketing,Travel,Williams Inc,2101.81,USD,2025-03-26,2307,Richard Aguirre,Europe
+343a9fbc-2937-489b-b084-7ce6ba280734,Carla Gray,carla.gray@example.com,Finance,Lodging,Short-Garcia,324.25,USD,2025-07-03,6977,Brent Jordan,Europe
+bfb22e76-0f76-4f06-bb61-3285d680fd29,Debra Davidson,debra.davidson@example.com,Sales,Lodging,Herrera and Sons,369.74,USD,2025-10-04,2796,Shannon Jones,Europe
+52041c78-f948-4daf-af9e-4dab03669952,Margaret Hawkins DDS,margaret.hawkins.dds@example.com,Marketing,Client Entertainment,"Miller, Murphy and Craig",216.03,USD,2025-01-25,6820,Richard Aguirre,Europe
+5275b802-36f8-4cdd-9cd6-9c4126f24d64,Allison Hill,allison.hill@example.com,Sales,Software,Wilcox-Robertson,917.23,USD,2025-10-23,1409,Shannon Jones,Asia Pacific
+5e400fe3-6e5a-43c9-806b-67609bab35fa,Philip Cannon,philip.cannon@example.com,Operations,Meals,Cisneros and Sons,142.69,USD,2025-07-09,6310,Michael Lewis,Latin America
+7b99f8b1-c974-4ed6-bed2-7f68e49d886f,Derek Zuniga,derek.zuniga@example.com,Marketing,Travel,Navarro-Munoz,920.23,USD,2025-04-26,2307,John Daniel,Europe
+323dbef3-66d7-46c9-8529-498d1e4c4231,Ryan Munoz,ryan.munoz@example.com,Marketing,Lodging,Butler and Sons,424.78,USD,2025-12-27,5552,Danny Morgan,Europe
+e242f9c0-6a89-42f4-9d8e-61825e4b5a7b,Patty Perez,patty.perez@example.com,Marketing,Software,Conner and Sons,935.98,USD,2025-09-07,2169,Brent Jordan,Europe
+ccd850df-7ab6-40ce-8c37-445f3d9b7492,Eric Carney,eric.carney@example.com,Finance,Travel,Chambers and Sons,1420.71,USD,2025-12-11,2133,John Daniel,Europe
+2cfbeff8-7a36-4406-9037-3a3b36ad2ccb,Shane Henderson,shane.henderson@example.com,Marketing,Office Supplies,"Phillips, Spence and Barrett",162.56,USD,2025-10-17,4923,Danny Morgan,North America
+436441e5-7f72-4080-b3ea-c3f98dc49197,Ethan Adams,ethan.adams@example.com,Operations,Software,Ross LLC,1650.05,USD,2025-12-05,5010,Mark Perez,Europe
+8b110d58-7fb6-4202-86b3-4b157747ce50,Holly Wood,holly.wood@example.com,Sales,Office Supplies,Hughes-Alvarado,290.54,USD,2025-04-25,1750,Michael Lewis,Europe
+95d18647-2dfc-4d24-8668-31498859e66f,Nathan Maldonado,nathan.maldonado@example.com,Operations,Meals,"Kirby, Wheeler and Romero",86.86,USD,2025-04-10,9085,Mark Perez,North America
+9d11963b-7484-4074-b0cc-c27065d6c1ca,Rebecca Henderson,rebecca.henderson@example.com,Engineering,Office Supplies,Smith-Grimes,235.62,USD,2025-07-19,5040,John Daniel,Asia Pacific
+766a0bc9-0cdd-4ea2-bb52-628cd330c220,Tommy Walter,tommy.walter@example.com,Finance,Software,"Hale, Myers and Larson",915.68,USD,2025-01-30,7216,John Daniel,Asia Pacific
+d3bf5a0f-294c-4420-951a-96310ce5f947,Shane Henderson,shane.henderson@example.com,Marketing,Office Supplies,"Williams, Castillo and Warren",275.19,USD,2025-09-28,4923,John Daniel,North America
+53518cfb-7669-4237-866d-9eb6ad43e2d2,Jamie Arnold,jamie.arnold@example.com,Sales,Travel,"Scott, Mendoza and Harris",2762.34,USD,2025-07-23,7224,Crystal Robinson,North America
+e7142b6d-3315-4826-8294-0018667f24a3,Ryan Munoz,ryan.munoz@example.com,Marketing,Software,Figueroa PLC,599.42,USD,2025-03-23,5552,Michael Lewis,Europe
+e3b03857-3538-4656-9832-cabb96243b0d,Ryan Munoz,ryan.munoz@example.com,Marketing,Client Entertainment,"Alvarez, Joseph and West",761.84,USD,2025-02-03,5552,Mark Perez,Europe
+e32b5fe5-aa47-4d42-9b27-ddf4d10cd950,Anthony Humphrey,anthony.humphrey@example.com,Operations,Client Entertainment,Lopez-Curry,298.8,USD,2025-10-21,4258,Crystal Robinson,Europe
+6da10d1d-4d22-49ec-8217-b908636fb2cc,Noah Rhodes,noah.rhodes@example.com,Engineering,Travel,"Harvey, Davis and Crane",810.04,USD,2025-07-04,4657,John Daniel,Europe
+a9c3ef10-717a-4d8b-8aaa-dd23b0bf31ce,Allison Hill,allison.hill@example.com,Sales,Office Supplies,Howell and Sons,248.48,USD,2025-02-10,1409,Timothy Duncan,Asia Pacific
+1222422e-7448-4874-af23-9434f753e2d3,Stephanie Ross,stephanie.ross@example.com,Sales,Client Entertainment,Strickland-Shaw,733.03,USD,2025-01-22,4456,Danny Morgan,Asia Pacific
+58549d7e-6970-444c-b191-6848617b0cb9,Zachary Hicks,zachary.hicks@example.com,Engineering,Software,"Wood, Tran and Cooper",1727.32,USD,2025-06-16,9179,Shannon Jones,Latin America
+1b3b2168-77f2-4275-85b5-33b70a39995a,Debra Davidson,debra.davidson@example.com,Sales,Travel,"Brown, Mcknight and Michael",494.03,USD,2025-03-11,2796,Brent Jordan,Europe
+3cb0a6db-74ef-47e3-93f5-89fac7e8241e,Nathan Maldonado,nathan.maldonado@example.com,Operations,Software,Reid-Poole,879.73,USD,2025-10-17,9085,Brent Jordan,North America
+da0cd515-3cef-4a7e-9779-cab589dd5f26,Paula Moreno,paula.moreno@example.com,Finance,Travel,Cook-Hines,2719.87,USD,2025-09-09,3591,Jessica Holmes,Latin America
+33b2f548-1b7f-494f-9350-2f2f266bdc25,Anthony Humphrey,anthony.humphrey@example.com,Operations,Software,Pearson and Sons,1803.66,USD,2025-08-07,4258,Jessica Holmes,Europe
+0a7048fd-31ff-44a5-affd-5198cfbe4cec,Tommy Walter,tommy.walter@example.com,Finance,Travel,"Leach, Harris and Herrera",2802.99,USD,2025-03-19,7216,John Daniel,Asia Pacific
+e7b31a1a-806e-464f-8789-2d75e2d76dac,Zachary Hicks,zachary.hicks@example.com,Engineering,Meals,"Holmes, Williams and Wright",152.58,USD,2025-07-04,9179,Richard Aguirre,Latin America
+82af8a51-39ba-41ca-aa23-d796dfcb5dff,Matthew Foster,matthew.foster@example.com,Operations,Lodging,Bruce-Villegas,412.5,USD,2025-11-12,4598,Crystal Robinson,Asia Pacific
+408e3d25-ec34-48bc-92a8-caa5efddbc98,Justin Baker,justin.baker@example.com,Marketing,Meals,Gregory-Watkins,166.12,USD,2025-11-08,7572,John Daniel,Asia Pacific
+ef28275f-5b79-4784-bb43-128f3f4d7a8f,Anthony Humphrey,anthony.humphrey@example.com,Operations,Software,"Jackson, Miller and Robertson",488.05,USD,2025-03-19,4258,Crystal Robinson,Europe
+d96a4fb0-59d6-45ce-8fab-85120339ae26,Zachary Hicks,zachary.hicks@example.com,Engineering,Meals,Howard-Jordan,173.26,USD,2025-02-08,9179,Michael Lewis,Latin America
+69106db7-98ed-4e14-87d0-123d29f6229d,Connie Lawrence,connie.lawrence@example.com,Engineering,Client Entertainment,Richardson Ltd,593.44,USD,2025-03-15,9279,Jessica Holmes,North America
+952df41a-4f47-43fe-a920-d03e2613315b,Eric Carney,eric.carney@example.com,Finance,Client Entertainment,Crosby-Ramirez,497.17,USD,2025-12-10,2133,Jessica Holmes,Europe
+5ab174bc-ca88-4431-b549-40b6b9c03c69,Rebecca Henderson,rebecca.henderson@example.com,Engineering,Meals,House-Glover,160.15,USD,2025-11-10,5040,Timothy Duncan,Asia Pacific
+a507192e-9b76-4514-b4e1-f65b26a70f4d,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Software,Baird-Sanchez,438.47,USD,2025-05-30,3340,Richard Aguirre,Asia Pacific
+2f531d4a-45ee-46c2-9cde-b3e363b38696,Lisa Jackson,lisa.jackson@example.com,Sales,Travel,Duran LLC,2313.04,USD,2025-04-16,7227,Richard Aguirre,Asia Pacific
+c28e0ef3-f55c-4030-ae4e-a6eb7d2a9bc6,Gabrielle Davis,gabrielle.davis@example.com,Sales,Software,"Estrada, Williams and Foster",151.75,USD,2025-07-06,3615,Michael Lewis,Latin America
+99768886-80a1-437b-8849-ef7b6a048960,Patty Perez,patty.perez@example.com,Marketing,Lodging,"Cole, Glass and Cunningham",153.54,USD,2025-10-30,2169,Richard Aguirre,Europe
+dd7a7d61-669e-47ee-8134-67bdd7d6e381,Noah Rhodes,noah.rhodes@example.com,Engineering,Meals,"Gray, Hall and Murray",1475.97,USD,2025-07-07,4657,Danny Morgan,Europe
+9e87a38b-4601-4365-94bd-41b0b7cf098c,Michele Williams,michele.williams@example.com,Sales,Lodging,"Smith, Montoya and Evans",380.8,USD,2025-04-03,8527,Shannon Jones,North America
+f6addeed-9d19-4825-8a8b-da8321afcd59,Eric Carney,eric.carney@example.com,Finance,Client Entertainment,Higgins-Smith,271.53,USD,2025-04-06,2133,Danny Morgan,Europe
+bfd56c99-498b-431c-a433-c9b0939b0ba1,James Ferrell,james.ferrell@example.com,Operations,Client Entertainment,Gay Inc,157.34,USD,2025-06-29,8019,Shannon Jones,Latin America
+b123f93b-0a56-4e53-9109-962ee943fd7e,Philip Cannon,philip.cannon@example.com,Operations,Travel,Davis Inc,1563.19,USD,2025-03-09,6310,Jessica Holmes,Latin America
+acf03e29-254f-4594-9a83-8bf71370517b,Matthew Foster,matthew.foster@example.com,Operations,Travel,Dougherty-Lin,2079.92,USD,2025-09-15,4598,Brent Jordan,Asia Pacific
+0fd92a86-5732-43f0-a007-03c8b0cc4851,Jeffrey Chavez,jeffrey.chavez@example.com,Engineering,Software,White-Lewis,1409.96,USD,2025-02-19,7916,Richard Aguirre,North America
+4abae387-fab6-4816-95e7-7d55fd9bcff4,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Software,Mcdonald-Bird,425.98,USD,2025-02-13,3340,Michael Lewis,Asia Pacific
+cfaca280-db39-4ad9-9d04-98d8ea7fbdd1,Abigail Shaffer,abigail.shaffer@example.com,Operations,Meals,Morales Inc,31.15,USD,2025-06-17,4257,Richard Aguirre,Latin America
+9a7fb070-b320-4e34-a504-34a2c8043c1c,Dylan Miller,dylan.miller@example.com,Finance,Travel,Rasmussen LLC,2014.1,USD,2025-06-04,2291,Michael Lewis,Asia Pacific
+c14fb1a1-a7fb-42a2-825f-aba26de8dae6,Nathan Maldonado,nathan.maldonado@example.com,Operations,Meals,"Long, Anderson and Irwin",1608.54,USD,2025-08-05,9085,John Daniel,North America
+9134dc9e-04a0-4574-b1eb-1d1a346e89b8,Eric Carney,eric.carney@example.com,Finance,Travel,Turner-Sharp,2202.05,USD,2025-08-06,2133,Mark Perez,Europe
+aea18494-8fa3-4cf3-b552-4a917fba0ac3,Angelica Tucker,angelica.tucker@example.com,Marketing,Software,"James, Stewart and Higgins",1316.02,USD,2025-02-15,3646,Crystal Robinson,North America
+d1a732c7-b1ef-455d-8faa-4b078247134d,Abigail Shaffer,abigail.shaffer@example.com,Operations,Meals,"Thomas, Lee and Greene",85.55,USD,2025-05-20,4257,John Daniel,Latin America
+83c2505f-c3fa-4264-83cd-0471e6e842c8,Shane Henderson,shane.henderson@example.com,Marketing,Software,Smith PLC,161.47,USD,2025-08-15,4923,Richard Aguirre,North America
+2fdcb088-6cfb-4201-a49d-41e6940b775f,Jamie Arnold,jamie.arnold@example.com,Sales,Meals,Owens-Holmes,103.33,USD,2025-12-30,7224,Mark Perez,North America
+8c74504e-0eed-499d-89c3-b72df06bf197,Derek Zuniga,derek.zuniga@example.com,Marketing,Travel,Gilbert PLC,2418.09,USD,2025-06-19,2307,Timothy Duncan,Europe
+2339d001-bd94-4348-9174-e3ecd031a9d6,Angie Henderson,angie.henderson@example.com,Sales,Software,Atkins PLC,1838.92,USD,2025-07-03,9935,Crystal Robinson,North America
+b10404a4-9dd9-4ca6-a3d0-c19f61503275,Cristian Santos,cristian.santos@example.com,Sales,Lodging,Hernandez-Jones,406.0,USD,2025-06-27,2535,Jessica Holmes,Europe
+defd0050-5cd1-4097-a610-76a82e801ff9,Jamie Arnold,jamie.arnold@example.com,Sales,Office Supplies,"Daniels, Vance and York",265.85,USD,2025-03-10,7224,Jessica Holmes,North America
+98b9d56a-c516-4c09-bf99-74164f1affca,Brittany Farmer,brittany.farmer@example.com,Marketing,Client Entertainment,Spencer-Lee,275.71,USD,2025-08-01,2827,Jessica Holmes,Asia Pacific
+73147694-6b91-41f1-9f2e-811ec9bf3eb8,Brittany Farmer,brittany.farmer@example.com,Marketing,Office Supplies,Ortiz-Morgan,89.62,USD,2025-11-04,2827,Jessica Holmes,Asia Pacific
+8927ed82-55e8-403e-9071-7a749e3a4980,Noah Rhodes,noah.rhodes@example.com,Engineering,Lodging,"Hall, Baker and Moody",335.73,USD,2025-04-03,4657,Crystal Robinson,Europe
+bd88a5c4-a55b-4cc8-b4aa-11127ce9df35,Zachary Hicks,zachary.hicks@example.com,Engineering,Lodging,Avila LLC,4150.47,USD,2025-05-26,9179,Timothy Duncan,Latin America
+fc5fb889-605e-4954-bdf1-42755de06ec4,Cassandra Gaines,cassandra.gaines@example.com,Operations,Software,Johnson-Carlson,124.6,USD,2025-08-20,5119,Timothy Duncan,North America
+0693799f-41b4-45e4-a30b-cad76d37f115,Monica Herrera,monica.herrera@example.com,Engineering,Office Supplies,Lowery-Kennedy,130.53,USD,2025-06-30,6514,Mark Perez,North America
+faa21060-bf4c-4ab4-b264-545ee3dfbf03,Brittany Farmer,brittany.farmer@example.com,Marketing,Client Entertainment,"Smith, Gilmore and Johnston",70.22,USD,2025-06-03,2827,John Daniel,Asia Pacific
+063ffa6c-78c2-45ac-b4e9-76ddb3819b45,Connie Lawrence,connie.lawrence@example.com,Engineering,Client Entertainment,Tran Inc,703.13,USD,2025-08-29,9279,Mark Perez,North America
+3fe4fa77-44fa-4960-ae69-8d58e02ab124,Matthew Foster,matthew.foster@example.com,Operations,Software,"Zhang, Brooks and Miles",908.43,USD,2025-06-17,4598,John Daniel,Asia Pacific
+a9ce93e0-781b-49df-891a-90679db1651f,Debra Davidson,debra.davidson@example.com,Sales,Travel,"Simmons, Meadows and Griffin",501.28,USD,2025-03-31,2796,Timothy Duncan,Europe
+fee6f4bd-5eee-487e-a3cf-968b178c7ae2,Dylan Miller,dylan.miller@example.com,Finance,Office Supplies,Fox-Edwards,175.24,USD,2025-04-06,2291,Richard Aguirre,Asia Pacific
+43f8cc61-6bd4-456b-ab5c-871cfa55e3a7,Angie Henderson,angie.henderson@example.com,Sales,Travel,Hicks-Martinez,965.34,USD,2025-08-23,9935,Danny Morgan,North America
+37d1369b-34b9-4f7b-8a77-222de26e0c34,Rebecca Henderson,rebecca.henderson@example.com,Engineering,Software,Johnson-Wood,121.41,USD,2025-09-09,5040,Mark Perez,Asia Pacific
+5f0012bf-af96-484f-8138-6b9153568e9f,Sherry Decker,sherry.decker@example.com,Operations,Client Entertainment,"Turner, Riggs and Roman",473.92,USD,2025-05-03,2743,Shannon Jones,Asia Pacific
+13663385-921a-4532-9089-22f67582c213,Sherri Baker,sherri.baker@example.com,Finance,Meals,"Alvarado, Miller and Patterson",101.03,USD,2025-04-10,7252,Michael Lewis,Latin America
+8011dfbb-5785-4bee-9ea5-8e65049413d5,Cristian Santos,cristian.santos@example.com,Sales,Meals,Young-Allen,194.89,USD,2025-09-07,2535,Danny Morgan,Europe
+3a7715e8-50d1-4d36-8381-ccb03862c900,Elizabeth Fowler,elizabeth.fowler@example.com,Sales,Lodging,Hoover-Campbell,288.63,USD,2025-12-18,9797,Shannon Jones,Asia Pacific
+6a7bfc24-95ca-4e5a-9a63-32e6f9781cd8,Fred Smith,fred.smith@example.com,Sales,Travel,"Evans, David and Hendrix",1619.44,USD,2025-11-22,5315,Danny Morgan,Europe
+a6fe01a5-d4cf-4250-9aae-b4f021b3fc00,Sherry Decker,sherry.decker@example.com,Operations,Lodging,"Austin, Day and Johnson",428.16,USD,2025-10-14,2743,Brent Jordan,Asia Pacific
+99ffdb08-3946-4204-9df7-b284c521e382,Margaret Hawkins DDS,margaret.hawkins.dds@example.com,Marketing,Client Entertainment,Fernandez and Sons,371.96,USD,2025-06-07,6820,Timothy Duncan,Europe
+3b61fd4f-b15a-4212-8017-2e8e7649e5f0,Lisa Jackson,lisa.jackson@example.com,Sales,Software,Stanley PLC,1710.16,USD,2025-10-04,7227,Crystal Robinson,Asia Pacific
+63c4ff47-869e-4ae4-8b8a-cad801dfe732,Angelica Tucker,angelica.tucker@example.com,Marketing,Client Entertainment,Frank-Bradley,656.78,USD,2025-03-06,3646,Richard Aguirre,North America
+27ee8e91-7a11-42c2-8a32-2dc4df350780,Jeffrey Chavez,jeffrey.chavez@example.com,Engineering,Software,"Sullivan, Palmer and Brady",488.49,USD,2025-04-26,7916,Shannon Jones,North America
+37b78b0d-40ff-4aac-b386-f4458a28eab1,Paula Moreno,paula.moreno@example.com,Finance,Client Entertainment,Perez-White,545.89,USD,2025-12-29,3591,Mark Perez,Latin America
+46c3fd0b-5a56-45d1-be32-616707a3b036,Eric Carney,eric.carney@example.com,Finance,Office Supplies,Gibson Ltd,73.46,USD,2025-11-09,2133,Brent Jordan,Europe
+696b9701-5e36-4c32-9755-e4dbfcef9e46,John Pierce,john.pierce@example.com,Sales,Lodging,Parsons-Hall,299.01,USD,2025-06-27,2832,Jessica Holmes,Asia Pacific
+520702c7-1f8a-461c-927f-ae78cd5e91cb,Jeffrey Chavez,jeffrey.chavez@example.com,Engineering,Travel,"Wright, Garcia and Deleon",424.43,USD,2025-12-09,7916,Crystal Robinson,North America
+3111c284-6c9b-4e6e-8214-2de9f4a56138,Connie Lawrence,connie.lawrence@example.com,Engineering,Lodging,Harvey-Allen,169.08,USD,2025-09-06,9279,John Daniel,North America
+e7546f9c-edcd-48af-b3e2-046912db5471,Tricia Valencia,tricia.valencia@example.com,Marketing,Lodging,Cole-Palmer,150.83,USD,2025-08-14,4593,Crystal Robinson,Europe
+474a2f71-4ef7-454c-8730-fb697bc1f540,Holly Wood,holly.wood@example.com,Sales,Travel,Scott Ltd,2155.48,USD,2025-01-01,1750,Brent Jordan,Europe
+d6ccc80d-b072-47b7-88bc-191e7e9fea69,Sherry Decker,sherry.decker@example.com,Operations,Lodging,Torres Group,192.33,USD,2025-03-12,2743,Shannon Jones,Asia Pacific
+0bd09963-140b-4366-b9c8-ad23b0902fbf,Elizabeth Fowler,elizabeth.fowler@example.com,Sales,Lodging,"Carroll, Sullivan and Bass",215.34,USD,2025-06-21,9797,Richard Aguirre,Asia Pacific
+8a07b94e-5272-4466-832d-019c6626b668,Elizabeth Fowler,elizabeth.fowler@example.com,Sales,Office Supplies,Burgess-Thompson,38.76,USD,2025-09-30,9797,Danny Morgan,Asia Pacific
+9287120b-38ee-442c-a095-0f6b6090a93f,Derek Zuniga,derek.zuniga@example.com,Marketing,Office Supplies,Gilbert PLC,32.92,USD,2025-06-07,2307,Richard Aguirre,Europe
+897d230d-a816-4437-b70a-ef99d1de6c20,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Software,Reed Inc,1567.34,USD,2025-07-15,3340,Brent Jordan,Asia Pacific
+eae30050-d389-451b-a3e5-ee014cc2c8f0,Jeffrey Chavez,jeffrey.chavez@example.com,Engineering,Client Entertainment,Holden Group,434.33,USD,2025-02-10,7916,Jessica Holmes,North America
+31676507-4cc6-4816-84c6-13b1827cf5f4,Eric Carney,eric.carney@example.com,Finance,Client Entertainment,"Valentine, Joyce and Murray",529.85,USD,2025-03-12,2133,Crystal Robinson,Europe
+eb063c94-0ce6-45b0-81b9-ed19e43ad22d,Stephanie Ross,stephanie.ross@example.com,Sales,Software,Brock-Mcdonald,1346.96,USD,2025-05-26,4456,Crystal Robinson,Asia Pacific
+6f431adc-0fa6-4723-b208-ce0bc6a50606,Gina Moore,gina.moore@example.com,Engineering,Lodging,Marshall-Petersen,305.06,USD,2025-10-24,8359,Crystal Robinson,Asia Pacific
+b5b77cfa-4141-4621-9ccf-e3f081256ad1,Fred Smith,fred.smith@example.com,Sales,Office Supplies,Hayes Ltd,148.46,USD,2025-03-19,5315,Shannon Jones,Europe
+fc2389f6-0c43-4407-8cee-5ff088749edc,Tricia Valencia,tricia.valencia@example.com,Marketing,Meals,"Fowler, Jimenez and Burton",120.95,USD,2025-02-28,4593,Crystal Robinson,Europe
+126c7cc3-fb0b-4e74-b879-9f8444aef703,Derek Zuniga,derek.zuniga@example.com,Marketing,Travel,Morgan-French,1741.19,USD,2025-09-24,2307,Jessica Holmes,Europe
+698b843d-ab10-4063-9e25-1d8873531c47,Lisa Jackson,lisa.jackson@example.com,Sales,Client Entertainment,Jones-Fox,56.13,USD,2025-02-11,7227,Timothy Duncan,Asia Pacific
+7057dea9-c49c-4965-a9fe-73b818518637,Jamie Arnold,jamie.arnold@example.com,Sales,Lodging,Henry Group,287.53,USD,2025-10-20,7224,John Daniel,North America
+e8cb4c98-1445-4dda-a180-b50f5ecf21ef,Brian Ramirez,brian.ramirez@example.com,Operations,Travel,"Conner, Li and Santiago",175.15,USD,2025-03-14,6925,Richard Aguirre,Europe
+1494e937-a17e-49b1-8b38-91e9160e85ad,Allison Hill,allison.hill@example.com,Sales,Travel,Novak and Sons,2152.74,USD,2025-01-23,1409,Mark Perez,Asia Pacific
+2ddc57cf-562e-4831-bd9f-7b3dbe95462a,Margaret Hawkins DDS,margaret.hawkins.dds@example.com,Marketing,Meals,Medina-Navarro,99.12,USD,2025-05-12,6820,Timothy Duncan,Europe
+78fab7b5-700e-444c-bd89-1f8ac8136459,Judy Baker,judy.baker@example.com,Sales,Lodging,King-Miller,163.3,USD,2025-08-18,4752,Mark Perez,North America
+613b956b-0c67-4bc3-bcf6-541a0113405e,Elizabeth Fowler,elizabeth.fowler@example.com,Sales,Lodging,Terry-Martinez,426.18,USD,2025-12-24,9797,Shannon Jones,Asia Pacific
+69b2691b-3901-4ce2-8bea-07d6f230e623,Jeffrey Chavez,jeffrey.chavez@example.com,Engineering,Meals,Gonzales-Harrison,85.96,USD,2025-12-25,7916,John Daniel,North America
+29bc2f75-231c-4e29-aea9-1d7d1b4897c3,Philip Cannon,philip.cannon@example.com,Operations,Meals,"Harvey, Randall and Hernandez",88.38,USD,2025-04-03,6310,Brent Jordan,Latin America
+e52b3f39-6a1b-480d-8ae4-9f98d065d599,Lisa Jackson,lisa.jackson@example.com,Sales,Meals,Welch-Hogan,23.1,USD,2025-03-19,7227,Jessica Holmes,Asia Pacific
+3cea7e5d-7c26-44fd-93eb-6bf711e75206,Carla Gray,carla.gray@example.com,Finance,Client Entertainment,"Guerrero, Peck and Coleman",60.26,USD,2025-06-08,6977,Danny Morgan,Europe
+e1da7555-fea7-4940-b8e0-3e320eb53ef0,Nathan Maldonado,nathan.maldonado@example.com,Operations,Client Entertainment,"Watson, Anderson and Brown",169.06,USD,2025-05-25,9085,Shannon Jones,North America
+e56fa320-ccc5-4421-9a1f-249b01356275,Zachary Hicks,zachary.hicks@example.com,Engineering,Meals,Wolf-Harris,143.39,USD,2025-12-17,9179,Jessica Holmes,Latin America
+e1429b7d-d3ee-49e0-85d5-8966d1185994,James Ferrell,james.ferrell@example.com,Operations,Client Entertainment,Carlson-Smith,400.11,USD,2025-12-08,8019,Shannon Jones,Latin America
+d135056a-c2be-4ee7-9967-ff2fc8318c92,Joshua Blair,joshua.blair@example.com,Engineering,Client Entertainment,Lam LLC,386.68,USD,2025-12-25,2290,John Daniel,North America
+eca3e283-2528-455b-bca3-44a35a4e77fc,Connie Lawrence,connie.lawrence@example.com,Engineering,Travel,Brown-Shaw,2850.79,USD,2025-10-27,9279,John Daniel,North America
+21bf1dc0-aaee-4d04-96ca-6b13e3680238,Nathan Maldonado,nathan.maldonado@example.com,Operations,Office Supplies,Bishop-Goodwin,233.06,USD,2025-11-16,9085,John Daniel,North America
+996a8658-b27b-4b7e-9b9a-89f71b8793df,Gabrielle Davis,gabrielle.davis@example.com,Sales,Office Supplies,Willis and Sons,164.45,USD,2025-03-31,3615,Brent Jordan,Latin America
+f1cc951b-5b94-4481-92ba-2f560870d980,Fred Smith,fred.smith@example.com,Sales,Lodging,Buchanan LLC,448.64,USD,2025-08-03,5315,Mark Perez,Europe
+053871c5-5d69-4bdf-8c2d-742be16d4263,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Office Supplies,Coffey-Phillips,130.64,USD,2025-02-06,3340,Michael Lewis,Asia Pacific
+f124b327-34fb-4585-b166-31c4524c6faa,Margaret Hawkins DDS,margaret.hawkins.dds@example.com,Marketing,Software,Osborn-Cochran,1309.5,USD,2025-12-19,6820,Danny Morgan,Europe
+c74179f3-c38c-48a8-9db1-4c0bfc72f9d1,Connie Lawrence,connie.lawrence@example.com,Engineering,Lodging,"Tran, Jordan and Williams",257.9,USD,2025-04-18,9279,Jessica Holmes,North America
+b1ed7e61-7158-47d5-847e-c0af5c6ca4fc,Anthony Humphrey,anthony.humphrey@example.com,Operations,Meals,Mitchell-Jordan,109.57,USD,2025-11-05,4258,Crystal Robinson,Europe
+ee6a8753-bec3-4f84-82cd-46374a086e7a,Noah Rhodes,noah.rhodes@example.com,Engineering,Software,Thornton PLC,1128.96,USD,2025-08-15,4657,John Daniel,Europe
+f72c20a8-2537-4664-a51e-d1bd09e7c9cc,Brittany Farmer,brittany.farmer@example.com,Marketing,Software,Diaz Inc,1343.61,USD,2025-02-18,2827,Shannon Jones,Asia Pacific
+5537f8e0-4372-4e60-8c5a-d5032e02b729,Lisa Hensley,lisa.hensley@example.com,Marketing,Travel,Henderson-Bernard,381.1,USD,2025-06-17,6635,Michael Lewis,Asia Pacific
+40cc019b-1bf6-41e5-a8d2-aed443878a04,Cassandra Gaines,cassandra.gaines@example.com,Operations,Travel,Jones-Soto,2998.76,USD,2025-09-19,5119,Shannon Jones,North America
+fa3e47d9-c18b-4d8a-9063-de3c61cf4625,Monica Herrera,monica.herrera@example.com,Engineering,Client Entertainment,"Jimenez, Glass and Stone",521.77,USD,2025-08-29,6514,Timothy Duncan,North America
+0439ec95-574d-429e-bde1-bc5a8aaf68db,Lisa Jackson,lisa.jackson@example.com,Sales,Lodging,"Suarez, Shields and Hill",204.0,USD,2025-11-19,7227,Timothy Duncan,Asia Pacific
+4f062318-5390-47c5-98e9-4935a9c95684,Zachary Hicks,zachary.hicks@example.com,Engineering,Client Entertainment,Webster Inc,263.7,USD,2025-10-18,9179,Richard Aguirre,Latin America
+b5c32f96-5bba-43e7-b6ec-ed7ab91abd95,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Meals,Hernandez Ltd,163.26,USD,2025-09-17,3340,Brent Jordan,Asia Pacific
+aaea87d6-d394-48af-9f47-1a017928f803,Ryan Munoz,ryan.munoz@example.com,Marketing,Meals,"Wood, Ramos and Sampson",154.57,USD,2025-01-20,5552,Danny Morgan,Europe
+8c50899f-93a6-43b5-b613-15566a98c7fd,Shane Henderson,shane.henderson@example.com,Marketing,Travel,Morrison Ltd,1135.57,USD,2025-01-27,4923,Michael Lewis,North America
+61b98960-6e75-452a-8f0c-d03e1cfa61a7,Lisa Hensley,lisa.hensley@example.com,Marketing,Lodging,Hernandez Inc,372.47,USD,2025-07-11,6635,Timothy Duncan,Asia Pacific
+c03c541a-bec2-4554-a31b-7485921c6a8b,Michele Williams,michele.williams@example.com,Sales,Travel,"Evans, Stewart and Walton",1779.62,USD,2025-07-30,8527,Jessica Holmes,North America
+41705292-af17-4ae5-97a0-db68e7ab05e5,Jeffrey Chavez,jeffrey.chavez@example.com,Engineering,Lodging,Schroeder-Kramer,418.6,USD,2025-01-28,7916,Timothy Duncan,North America
+976b37b1-03da-4c41-8efe-25689710e8f3,Fred Smith,fred.smith@example.com,Sales,Lodging,"Hernandez, Martinez and Weber",494.34,USD,2025-05-06,5315,Michael Lewis,Europe
+9a46eaca-5c20-4642-82f0-a8aaa7a76d39,Zachary Hicks,zachary.hicks@example.com,Engineering,Office Supplies,"Winters, Newman and Brown",89.22,USD,2025-10-21,9179,Brent Jordan,Latin America
+2fdd062c-1cb5-42a3-8c50-6c18db7f72e9,Jamie Arnold,jamie.arnold@example.com,Sales,Travel,Bruce-Gonzalez,2017.07,USD,2025-01-11,7224,Crystal Robinson,North America
+2f8ca45e-b4ba-4127-a40a-ae2782fe8971,Lisa Jackson,lisa.jackson@example.com,Sales,Travel,Guerrero Inc,1274.59,USD,2025-05-07,7227,Crystal Robinson,Asia Pacific
+c18bc6f3-bb73-491a-99ab-528a7a151b5f,Gabrielle Davis,gabrielle.davis@example.com,Sales,Client Entertainment,Moore-Collins,332.54,USD,2025-03-05,3615,Crystal Robinson,Latin America
+424eacc2-5692-41d6-846a-f5c2b54c97b8,Joshua Blair,joshua.blair@example.com,Engineering,Client Entertainment,Ramirez Group,497.59,USD,2025-02-09,2290,Mark Perez,North America
+7df2e3d3-a32f-4ed2-97a1-8c8c72ab454f,Angelica Tucker,angelica.tucker@example.com,Marketing,Meals,Ruiz Ltd,120.78,USD,2025-04-01,3646,Timothy Duncan,North America
+f431b0f3-a8de-4509-8fd6-f93b284eea4e,Nathan Maldonado,nathan.maldonado@example.com,Operations,Lodging,Miller-Wright,265.74,USD,2025-04-19,9085,Crystal Robinson,North America
+b2893175-c0af-4ed8-9a38-4880e97a09f4,Lisa Hensley,lisa.hensley@example.com,Marketing,Software,"Williams, Logan and Camacho",734.64,USD,2025-11-15,6635,Crystal Robinson,Asia Pacific
+09d8f0fc-db96-456f-a879-b6d56dae6b7e,Gabrielle Davis,gabrielle.davis@example.com,Sales,Lodging,Gray Group,472.92,USD,2025-08-10,3615,John Daniel,Latin America
+8fe1f5f4-eb7f-4005-8873-9bdffb58ba5e,Anthony Humphrey,anthony.humphrey@example.com,Operations,Client Entertainment,"Bryan, Smith and Booth",335.01,USD,2025-05-03,4258,Richard Aguirre,Europe
+ea291d84-5c6b-4e93-a050-9c0310625967,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Software,Bright-Francis,1357.45,USD,2025-10-16,3340,Brent Jordan,Asia Pacific
+cd0e2fd1-eec5-47c7-9287-a80aba91ad86,Carla Gray,carla.gray@example.com,Finance,Lodging,Boone LLC,373.36,USD,2025-06-02,6977,Crystal Robinson,Europe
+0abbb5fa-2e66-4e46-a02c-0de310848099,Debra Davidson,debra.davidson@example.com,Sales,Travel,Mitchell and Sons,482.19,USD,2025-03-13,2796,Mark Perez,Europe
+bd3db39e-77b0-472e-9fdd-7c3b03bbbe47,John Pierce,john.pierce@example.com,Sales,Travel,Richards-Carson,2908.36,USD,2025-08-22,2832,Shannon Jones,Asia Pacific
+6e179fc4-9c84-4863-ab98-1fcff7c2b684,Jeffrey Chavez,jeffrey.chavez@example.com,Engineering,Client Entertainment,Stafford Inc,287.97,USD,2025-10-21,7916,Richard Aguirre,North America
+82f6dc50-a6ec-4e1e-86ba-b1b8260890b8,Joshua Blair,joshua.blair@example.com,Engineering,Travel,"Harrison, Johnson and Roberts",690.32,USD,2025-08-02,2290,Crystal Robinson,North America
+c249ae38-9585-49cc-87b1-010927461dd1,Michele Williams,michele.williams@example.com,Sales,Client Entertainment,"Hill, Martinez and Rhodes",392.01,USD,2025-01-24,8527,John Daniel,North America
+8483c21d-0f0d-4137-9300-3af1ae1b2af7,Lisa Hensley,lisa.hensley@example.com,Marketing,Meals,"Reyes, Chase and Jenkins",160.5,USD,2025-12-07,6635,Michael Lewis,Asia Pacific
+641efcf7-7d57-4119-b476-c9e9c3444094,Connie Lawrence,connie.lawrence@example.com,Engineering,Software,Gibbs-Bradley,350.73,USD,2025-10-04,9279,Crystal Robinson,North America
+c2b529d5-0d81-4d81-bfca-7282efa770a7,Angelica Tucker,angelica.tucker@example.com,Marketing,Travel,"Jacobson, Singleton and King",1952.26,USD,2025-04-25,3646,Michael Lewis,North America
+6b13d3b2-132b-4e5d-8d18-7bf32f409dd8,Daniel Wagner,daniel.wagner@example.com,Operations,Lodging,Smith PLC,83.97,USD,2025-03-08,7912,Danny Morgan,North America
+95cde4ca-fed4-4c24-9e79-d72a9ae61ff5,Eric Carney,eric.carney@example.com,Finance,Meals,Monroe-Carpenter,127.31,USD,2025-05-17,2133,Mark Perez,Europe
+432f1fcb-8a8f-44f1-b221-fb4a109df447,Lisa Jackson,lisa.jackson@example.com,Sales,Travel,"Washington, Hardy and Bray",771.28,USD,2025-10-02,7227,Shannon Jones,Asia Pacific
+70d41e32-104b-45fa-9ae8-2f598f45037b,Patty Perez,patty.perez@example.com,Marketing,Travel,"Lewis, Kennedy and Santana",2473.43,USD,2025-10-19,2169,Mark Perez,Europe
+f3200bfc-2886-48ea-a9a7-6c65e1a779af,Justin Baker,justin.baker@example.com,Marketing,Software,Green-Wright,1108.09,USD,2025-06-11,7572,Jessica Holmes,Asia Pacific
+effcdd8a-ce93-4cfd-a225-50b10ada97f7,John Pierce,john.pierce@example.com,Sales,Lodging,Bell-Lane,485.05,USD,2025-08-23,2832,Crystal Robinson,Asia Pacific
+ff72ac18-98e1-4c57-a149-5b5a29e9bf9b,Angelica Tucker,angelica.tucker@example.com,Marketing,Software,Cortez LLC,1131.1,USD,2025-03-16,3646,Timothy Duncan,North America
+761d0488-40f0-46f3-a651-04b1c22ad2f4,Brian Ramirez,brian.ramirez@example.com,Operations,Meals,"Woods, Calhoun and Schmidt",50.19,USD,2025-06-24,6925,Crystal Robinson,Europe
+8e0c48a6-7718-4343-8716-528d947d39b7,Abigail Shaffer,abigail.shaffer@example.com,Operations,Office Supplies,"Garcia, Martin and Jenkins",38.92,USD,2025-12-20,4257,Richard Aguirre,Latin America
+88347bbf-0a53-4b8c-8de2-511faa7c2596,Ethan Adams,ethan.adams@example.com,Operations,Office Supplies,Cox LLC,22.28,USD,2025-12-04,5010,Michael Lewis,Europe
+44e19ecc-bc00-459e-8745-a0b92983304d,James Ferrell,james.ferrell@example.com,Operations,Lodging,"Schmidt, Hansen and Stewart",180.48,USD,2025-06-20,8019,Danny Morgan,Latin America
+73de856d-8774-4f19-93c9-4a81bbd098bd,Jeffrey Chavez,jeffrey.chavez@example.com,Engineering,Office Supplies,"Mcmillan, Fischer and Gonzalez",23.6,USD,2025-05-14,7916,Timothy Duncan,North America
+51455538-0ff9-4a1e-a951-e4ce53fe79aa,Stephanie Ross,stephanie.ross@example.com,Sales,Lodging,"Williams, Johnson and Wright",235.64,USD,2025-07-16,4456,Michael Lewis,Asia Pacific
+d1f516a9-7571-47c0-8acd-256e8f21589c,Holly Wood,holly.wood@example.com,Sales,Lodging,Hughes Inc,168.54,USD,2025-08-11,1750,Timothy Duncan,Europe
+9cdfe0a6-e04b-42a3-ae11-16cb12b29167,Nathan Maldonado,nathan.maldonado@example.com,Operations,Office Supplies,Brown Group,53.19,USD,2025-12-13,9085,Brent Jordan,North America
+fab0426b-bf74-45e6-bf72-1795dfecbe5e,Abigail Shaffer,abigail.shaffer@example.com,Operations,Travel,Campbell-Clark,1659.14,USD,2025-07-16,4257,Shannon Jones,Latin America
+5ca5e4ec-bd18-4554-8714-2cf5426f0350,Gabrielle Davis,gabrielle.davis@example.com,Sales,Lodging,"Valdez, Lucas and Brown",279.62,USD,2025-08-02,3615,Crystal Robinson,Latin America
+168addb4-c13c-4974-98f8-660c4acb458b,Shane Henderson,shane.henderson@example.com,Marketing,Client Entertainment,Miller-Brandt,468.02,USD,2025-08-04,4923,Jessica Holmes,North America
+d48091b7-b8c1-4d3b-9668-aa263be72274,Brian Ramirez,brian.ramirez@example.com,Operations,Meals,"Nelson, Hoffman and Nelson",129.66,USD,2025-04-09,6925,Michael Lewis,Europe
+b899e7f0-aa4d-477e-b3fc-9b058df28f89,Shane Henderson,shane.henderson@example.com,Marketing,Office Supplies,Ford-Spencer,269.44,USD,2025-05-31,4923,Michael Lewis,North America
+29e77184-4c6c-4710-86b7-edc237fc1a24,Nathan Maldonado,nathan.maldonado@example.com,Operations,Software,"Hicks, Bullock and Bailey",181.97,USD,2025-07-24,9085,Brent Jordan,North America
+0c28c8fd-1f97-434c-8284-1a6a8c097f84,Lisa Hensley,lisa.hensley@example.com,Marketing,Travel,Morrison-Short,1379.01,USD,2025-06-12,6635,Crystal Robinson,Asia Pacific
+8e4ff9e8-04e7-4aff-88cd-020bb5f001ef,Debra Davidson,debra.davidson@example.com,Sales,Software,Reed Group,83.43,USD,2025-11-12,2796,Timothy Duncan,Europe
+3d8cd65f-6b91-411f-8907-e42d51f0b990,Sherry Decker,sherry.decker@example.com,Operations,Lodging,"Edwards, Baker and Anderson",284.4,USD,2025-03-15,2743,Shannon Jones,Asia Pacific
+316664a2-4205-46ba-8147-ec4a4467f73d,Carla Gray,carla.gray@example.com,Finance,Software,Smith LLC,751.31,USD,2025-12-09,6977,Richard Aguirre,Europe
+47391d8f-5691-45c0-883b-8241cfa71d9d,Gina Moore,gina.moore@example.com,Engineering,Client Entertainment,Walker-Jones,636.98,USD,2025-05-15,8359,Brent Jordan,Asia Pacific
+b5ce08a3-015c-4626-b362-b85e8a28774b,Philip Cannon,philip.cannon@example.com,Operations,Software,Salazar-Ball,507.26,USD,2025-05-11,6310,Michael Lewis,Latin America
+43b4141d-346e-41b3-9dda-1865fef694a4,Tricia Valencia,tricia.valencia@example.com,Marketing,Lodging,Lyons-Bender,449.32,USD,2025-12-02,4593,Danny Morgan,Europe
+00995289-1b33-4ab8-b608-8adca4ff86d6,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Client Entertainment,Moore Group,93.3,USD,2025-06-29,3340,Shannon Jones,Asia Pacific
+a3922e0b-2355-4987-bdfb-68ee4b3acd35,Tommy Walter,tommy.walter@example.com,Finance,Office Supplies,"Lamb, Martin and Kim",243.06,USD,2025-08-03,7216,Crystal Robinson,Asia Pacific
+28e0c559-4765-413f-a8c4-8135cf6ac097,Allison Hill,allison.hill@example.com,Sales,Travel,"Hensley, Powell and David",2786.46,USD,2025-11-26,1409,Mark Perez,Asia Pacific
+7e3706d8-6555-4928-b051-68912b4226df,Eric Carney,eric.carney@example.com,Finance,Software,Small-Anderson,107.77,USD,2025-04-17,2133,Richard Aguirre,Europe
+7a3a21b0-4a6a-44a0-887a-ebf4f8dfb22d,Cristian Santos,cristian.santos@example.com,Sales,Office Supplies,Chambers-Parker,297.3,USD,2025-07-06,2535,John Daniel,Europe
+2fefbbcb-a06b-4c83-af60-3d6b54ac26e0,Cristian Santos,cristian.santos@example.com,Sales,Client Entertainment,Freeman-Chang,522.08,USD,2025-01-21,2535,Crystal Robinson,Europe
+98f7156a-636c-4a09-a3c1-7d324fb0e3ac,Ryan Munoz,ryan.munoz@example.com,Marketing,Office Supplies,"Kelley, Nguyen and Vang",29.8,USD,2025-06-21,5552,Shannon Jones,Europe
+14f41a79-36b9-448d-9e2d-fc1d6c55c70b,Tommy Walter,tommy.walter@example.com,Finance,Travel,Williams-Hughes,1261.69,USD,2025-08-10,7216,Brent Jordan,Asia Pacific
+59a1ef85-ec51-474e-9d05-d411c25a91da,Connie Lawrence,connie.lawrence@example.com,Engineering,Office Supplies,Love-Garcia,119.99,USD,2025-08-03,9279,Richard Aguirre,North America
+e89b4d0b-ead4-43bd-a28a-56096762d116,Gabrielle Davis,gabrielle.davis@example.com,Sales,Software,"Hartman, Romero and Smith",1468.64,USD,2025-10-24,3615,Timothy Duncan,Latin America
+07586daa-9551-425c-8801-9864f41b048c,Angelica Tucker,angelica.tucker@example.com,Marketing,Software,Davis PLC,1847.0,USD,2025-05-17,3646,Jessica Holmes,North America
+9b0c21f7-7b27-4ad9-a674-771842c2ca7d,Anthony Humphrey,anthony.humphrey@example.com,Operations,Office Supplies,Taylor and Sons,29.47,USD,2025-11-20,4258,Danny Morgan,Europe
+b48c3da9-4092-4313-949a-b61d15af3dfe,Angelica Tucker,angelica.tucker@example.com,Marketing,Office Supplies,"Downs, Morris and Maddox",193.2,USD,2025-11-12,3646,Crystal Robinson,North America
+f979709f-3777-4b91-9c2c-5d649c2e3b67,Tricia Valencia,tricia.valencia@example.com,Marketing,Office Supplies,Cooper Ltd,231.68,USD,2025-04-19,4593,John Daniel,Europe
+7347bc73-f066-44b5-becc-05ea1e228f0c,Rebecca Henderson,rebecca.henderson@example.com,Engineering,Software,Rowe Group,846.28,USD,2025-05-05,5040,Danny Morgan,Asia Pacific
+9bd7b22f-7ced-4cc6-94b9-4a776f986053,Angie Henderson,angie.henderson@example.com,Sales,Office Supplies,Walker Ltd,74.51,USD,2025-11-14,9935,Richard Aguirre,North America
+0174175c-9f6c-44b2-af6a-9c587765dbc8,Lisa Jackson,lisa.jackson@example.com,Sales,Travel,"Le, Lewis and Hayes",1969.53,USD,2025-11-29,7227,Danny Morgan,Asia Pacific
+d8161b24-2d95-41d8-86a9-ffdd30650a21,Debra Davidson,debra.davidson@example.com,Sales,Travel,Dickson-Brady,2520.33,USD,2025-08-15,2796,Brent Jordan,Europe
+166d8a35-26e9-47f6-b709-2d482068cc7e,Michele Williams,michele.williams@example.com,Sales,Office Supplies,"Ramirez, Strickland and Washington",122.95,USD,2025-10-26,8527,John Daniel,North America
+bad31f1e-7b7b-4a19-a85d-92f8d31843a9,Connie Lawrence,connie.lawrence@example.com,Engineering,Lodging,"Gallegos, Adams and White",361.59,USD,2025-07-17,9279,Michael Lewis,North America
+f9d4d3c8-28da-433f-8ae6-150ecf4b62ec,Joshua Blair,joshua.blair@example.com,Engineering,Travel,Hooper PLC,2853.87,USD,2025-03-19,2290,Jessica Holmes,North America
+00fc523c-87b3-4ccb-b692-a00aa0978b92,Connie Lawrence,connie.lawrence@example.com,Engineering,Office Supplies,"Morris, Thompson and Williams",254.9,USD,2025-04-05,9279,Timothy Duncan,North America
+35040f0a-c543-4e51-b79d-b13ec0d79b64,Brittany Farmer,brittany.farmer@example.com,Marketing,Lodging,Cordova Group,246.94,USD,2025-02-01,2827,Michael Lewis,Asia Pacific
+e0f3d89b-012e-4169-8e91-b30813ec8a3a,Connie Lawrence,connie.lawrence@example.com,Engineering,Software,Hill Ltd,15327.8,USD,2025-02-15,9279,Crystal Robinson,North America
+635316fa-c9a2-4129-b4db-f14babb98c68,Gabrielle Davis,gabrielle.davis@example.com,Sales,Client Entertainment,Williams-Williams,795.11,USD,2025-04-01,3615,John Daniel,Latin America
+13498346-bf2c-4590-af56-869ad39b3fed,Shane Henderson,shane.henderson@example.com,Marketing,Client Entertainment,Kane-Knox,468.02,USD,2025-08-26,4923,Timothy Duncan,North America
+cc0416a5-dde0-4e69-8606-1ebb8c32dc32,Nathan Maldonado,nathan.maldonado@example.com,Operations,Meals,Jackson-Wallace,118.76,USD,2025-09-15,9085,Richard Aguirre,North America
+4d3e733e-edbb-49a7-8b52-d554353e7c94,Connie Lawrence,connie.lawrence@example.com,Engineering,Client Entertainment,Miller Ltd,385.06,USD,2025-10-01,9279,Michael Lewis,North America
+e28b7fd4-282c-4a37-921c-381aef39372e,Cristian Santos,cristian.santos@example.com,Sales,Travel,Russell Group,2592.94,USD,2025-01-28,2535,Brent Jordan,Europe
+f4549904-79eb-4e92-820a-5778a4fa685c,Anthony Humphrey,anthony.humphrey@example.com,Operations,Office Supplies,Moody-Taylor,96.26,USD,2025-01-29,4258,Jessica Holmes,Europe
+2b699e4d-97c4-47a1-8079-b041a310491b,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Meals,Mendez and Sons,54.8,USD,2025-05-18,3340,Jessica Holmes,Asia Pacific
+617e4118-205a-4934-91ff-0b2dc47d2dc5,Michele Williams,michele.williams@example.com,Sales,Meals,Zhang PLC,156.37,USD,2025-04-23,8527,Michael Lewis,North America
+a7f11f0f-6bb8-4d20-970f-b7450a64ae39,Shane Henderson,shane.henderson@example.com,Marketing,Client Entertainment,"Newton, Moore and Perry",211.35,USD,2025-06-13,4923,Richard Aguirre,North America
+7fed8a91-7466-47d0-b5c9-67114f7eeaaa,Debra Davidson,debra.davidson@example.com,Sales,Office Supplies,Li PLC,163.36,USD,2025-10-10,2796,Mark Perez,Europe
+17cd3afa-2e4a-4910-973f-d5bea89db306,Sherry Decker,sherry.decker@example.com,Operations,Office Supplies,"Parker, Ortiz and Powell",206.42,USD,2025-12-17,2743,Crystal Robinson,Asia Pacific
+809f33f6-4acc-4c99-a862-2812156c481a,Patty Perez,patty.perez@example.com,Marketing,Lodging,"Martinez, Richardson and Curry",131.34,USD,2025-05-18,2169,Timothy Duncan,Europe
+78b0fcc9-b2b4-4331-a963-c6d1dd6e6e26,Lisa Hensley,lisa.hensley@example.com,Marketing,Client Entertainment,Li-Thompson,431.84,USD,2025-07-14,6635,Jessica Holmes,Asia Pacific
+863a2413-475b-4dd8-ba5d-e71cc669d288,Elizabeth Fowler,elizabeth.fowler@example.com,Sales,Meals,Boone-Simmons,155.64,USD,2025-09-12,9797,Danny Morgan,Asia Pacific
+ec278b8c-209d-489e-b506-4805ad36397d,Abigail Shaffer,abigail.shaffer@example.com,Operations,Office Supplies,"Beltran, Lozano and Mcgee",156.11,USD,2025-08-27,4257,Jessica Holmes,Latin America
+a72eee1c-888c-4e4d-8cca-402babf5726f,Jamie Arnold,jamie.arnold@example.com,Sales,Lodging,Simon Ltd,326.07,USD,2025-05-28,7224,Danny Morgan,North America
+548027b8-d265-45a5-8e16-474f956d1d37,Ryan Munoz,ryan.munoz@example.com,Marketing,Lodging,"Avery, Horton and Fernandez",345.93,USD,2025-01-12,5552,Danny Morgan,Europe
+3951ab22-05c6-485c-b7a9-23945b64e687,Sherri Baker,sherri.baker@example.com,Finance,Client Entertainment,"Pierce, Bell and Chavez",95.17,USD,2025-10-15,7252,Danny Morgan,Latin America
+076f3f8f-b745-48d7-8ec3-7f46dc8654a0,Sherri Baker,sherri.baker@example.com,Finance,Client Entertainment,Johnston-Odonnell,551.14,USD,2025-05-11,7252,Jessica Holmes,Latin America
+98491842-0ec3-4254-91aa-f670c8255dcd,Ethan Adams,ethan.adams@example.com,Operations,Office Supplies,Hines-Berry,200.23,USD,2025-10-18,5010,Richard Aguirre,Europe
+92986379-7742-4f74-a73d-8fc1bca761dd,Ethan Adams,ethan.adams@example.com,Operations,Lodging,Gross-Valencia,106.78,USD,2025-01-24,5010,Danny Morgan,Europe
+412611cf-912e-46e0-b7f7-4d6dd3639d29,Cassandra Gaines,cassandra.gaines@example.com,Operations,Lodging,Davis Ltd,285.65,USD,2025-02-27,5119,Richard Aguirre,North America
+7f67e477-f48b-4a6b-a0ec-41096bd50820,Dylan Miller,dylan.miller@example.com,Finance,Client Entertainment,"Miller, Ramos and Coleman",229.38,USD,2025-11-11,2291,Richard Aguirre,Asia Pacific
+2005e346-227a-4388-890a-bba3024d9330,Brian Ramirez,brian.ramirez@example.com,Operations,Lodging,Reynolds Ltd,263.86,USD,2025-06-20,6925,Brent Jordan,Europe
+52157bfd-ca61-44b3-b228-ba59fb9e0c96,Anthony Humphrey,anthony.humphrey@example.com,Operations,Travel,"Perez, Hall and Garcia",1995.83,USD,2025-11-30,4258,Jessica Holmes,Europe
+c97fb7a4-832b-45e3-bcc0-f84243b16227,Margaret Hawkins DDS,margaret.hawkins.dds@example.com,Marketing,Client Entertainment,"Lee, Tran and Jones",498.44,USD,2025-09-19,6820,Michael Lewis,Europe
+620f4582-7624-4412-977e-5935fcea6017,Shane Henderson,shane.henderson@example.com,Marketing,Client Entertainment,"Stuart, Brooks and Vance",468.02,USD,2025-08-25,4923,Michael Lewis,North America
+07c665ae-5536-44bb-bf38-5b5ba834f7d3,Judy Baker,judy.baker@example.com,Sales,Meals,"Garcia, Humphrey and Baker",139.26,USD,2025-04-27,4752,Richard Aguirre,North America
+452956a5-b7ef-44ff-9fb0-78ce08c711e7,Gabrielle Davis,gabrielle.davis@example.com,Sales,Software,Todd-Pham,675.3,USD,2025-09-28,3615,Mark Perez,Latin America
+542649bb-d7fc-4b22-abc6-11614d91fa43,Carla Gray,carla.gray@example.com,Finance,Travel,"Patton, Parsons and Lane",714.24,USD,2025-03-15,6977,Danny Morgan,Europe
+6cf0218e-0db4-4fd6-bde4-2ef0394b267f,Daniel Wagner,daniel.wagner@example.com,Operations,Travel,"Morrison, Hebert and Rogers",1367.56,USD,2025-11-22,7912,Danny Morgan,North America
+100281fa-65f3-4a7b-8d7b-2e4c808d5e57,Ryan Munoz,ryan.munoz@example.com,Marketing,Office Supplies,"Ferguson, Shaw and Jackson",226.84,USD,2025-08-24,5552,Michael Lewis,Europe
+f1aaec0f-8fec-4427-a3ef-759eaf2dcc73,Abigail Shaffer,abigail.shaffer@example.com,Operations,Travel,Peterson-Beard,1764.79,USD,2025-07-02,4257,Richard Aguirre,Latin America
+293f67ca-e1da-41e6-b0a1-5ca4681a61b1,Monica Herrera,monica.herrera@example.com,Engineering,Office Supplies,"Sanchez, Wheeler and Harvey",150.84,USD,2025-03-25,6514,Timothy Duncan,North America
+4253088f-890e-463d-97ae-9d4cc308d17a,Sherry Decker,sherry.decker@example.com,Operations,Client Entertainment,Arnold and Sons,396.48,USD,2025-01-22,2743,Mark Perez,Asia Pacific
+4878b8e9-4f3f-4258-b489-d57d33e251a0,Anthony Humphrey,anthony.humphrey@example.com,Operations,Client Entertainment,Donovan-Perez,742.33,USD,2025-12-11,4258,Shannon Jones,Europe
+68c9c98a-5524-49ee-bd16-842c5312153d,Sherry Decker,sherry.decker@example.com,Operations,Travel,Torres and Sons,1449.65,USD,2025-03-04,2743,Timothy Duncan,Asia Pacific
+a25b4a52-2abb-4054-ac47-89765d1873f8,Tricia Valencia,tricia.valencia@example.com,Marketing,Client Entertainment,"Ferrell, Jones and Lewis",168.07,USD,2025-07-17,4593,Danny Morgan,Europe
+abf5a11a-0a56-43d5-a443-4187a320f312,Sherri Baker,sherri.baker@example.com,Finance,Meals,Sanchez Ltd,198.19,USD,2025-03-29,7252,Shannon Jones,Latin America
+6766522b-c3a1-4d23-af70-2094cd92f410,Monica Herrera,monica.herrera@example.com,Engineering,Lodging,Salazar Inc,272.74,USD,2025-04-10,6514,Crystal Robinson,North America
+7b077e17-d44c-48f9-8583-a6a1f3a54383,Stephanie Ross,stephanie.ross@example.com,Sales,Client Entertainment,"Owens, Koch and Jimenez",334.46,USD,2025-03-31,4456,Mark Perez,Asia Pacific
+0d8c3094-d3a0-48c3-9d9b-ed079582f9e4,Anthony Humphrey,anthony.humphrey@example.com,Operations,Client Entertainment,"Fuller, Ingram and Moss",139.11,USD,2025-02-07,4258,Timothy Duncan,Europe
+674e333c-0fba-41fd-86d4-f5c3878d7506,Allison Hill,allison.hill@example.com,Sales,Software,Castaneda-Rodriguez,1590.47,USD,2025-04-03,1409,John Daniel,Asia Pacific
+e0410493-b02f-4b3d-af64-5fc20c8ac4b9,Derek Zuniga,derek.zuniga@example.com,Marketing,Travel,"Lopez, Jacobs and Mason",2208.54,USD,2025-01-31,2307,Timothy Duncan,Europe
+05b3b897-f39e-4b49-a04f-fd1ccb41062f,Angelica Tucker,angelica.tucker@example.com,Marketing,Office Supplies,"Carlson, Hooper and Wall",30.64,USD,2025-04-01,3646,Shannon Jones,North America
+aca89d25-3c88-4aa4-8861-b587a4fc0e18,Holly Wood,holly.wood@example.com,Sales,Software,Vargas Ltd,595.33,USD,2025-08-20,1750,Shannon Jones,Europe
+d8290a91-85eb-49a8-8e55-6080b2190ec3,Gabrielle Davis,gabrielle.davis@example.com,Sales,Software,"Young, Contreras and Marshall",637.21,USD,2025-07-11,3615,Crystal Robinson,Latin America
+69ff1f00-d766-4a7a-8e13-89b5151e4b6f,Noah Rhodes,noah.rhodes@example.com,Engineering,Software,Ramirez-Bean,1172.8,USD,2025-12-19,4657,Timothy Duncan,Europe
+d14b9279-5cbe-47a2-af49-0737fe476e15,Nathan Maldonado,nathan.maldonado@example.com,Operations,Software,Ortiz Ltd,1264.14,USD,2025-07-13,9085,Richard Aguirre,North America
+e3ce52ea-e908-4bfd-b168-3976a592f8e6,Derek Zuniga,derek.zuniga@example.com,Marketing,Travel,May-Ross,2903.98,USD,2025-04-19,2307,Michael Lewis,Europe
+f0c9efe0-07f5-42ac-b037-51a274c40720,Joshua Blair,joshua.blair@example.com,Engineering,Software,Shaw-Carr,1832.94,USD,2025-05-24,2290,Michael Lewis,North America
+5d8e4cfe-46f3-411e-bc31-ce931710ce83,Anthony Humphrey,anthony.humphrey@example.com,Operations,Lodging,"Sanford, Rivera and Garcia",363.25,USD,2025-06-04,4258,Brent Jordan,Europe
+66782d3a-7083-4c37-a6b2-911640d93d03,Zachary Hicks,zachary.hicks@example.com,Engineering,Client Entertainment,Jones Inc,123.43,USD,2025-09-11,9179,Brent Jordan,Latin America
+3ab8270a-8a71-4366-9d0e-b99f252ac185,Elizabeth Fowler,elizabeth.fowler@example.com,Sales,Lodging,"Richardson, Farmer and Andrews",473.96,USD,2025-05-01,9797,Brent Jordan,Asia Pacific
+83dd1868-2585-4236-a82e-131b640cea99,Matthew Foster,matthew.foster@example.com,Operations,Client Entertainment,"Diaz, Anderson and Browning",447.92,USD,2025-06-26,4598,Brent Jordan,Asia Pacific
+8fc3a78f-09c3-4d92-9c2c-2498a57beb16,Patty Perez,patty.perez@example.com,Marketing,Software,"Matthews, Saunders and Anderson",1185.8,USD,2025-08-11,2169,Jessica Holmes,Europe
+9c0735d9-3f41-4ba2-8470-7e2d3aed7287,Lisa Jackson,lisa.jackson@example.com,Sales,Lodging,"Marks, Miller and Griffin",371.88,USD,2025-07-10,7227,John Daniel,Asia Pacific
+0387c2e5-acd8-4ee6-bef1-3664c8e47d11,Matthew Foster,matthew.foster@example.com,Operations,Lodging,"Graham, Olsen and Costa",412.81,USD,2025-09-11,4598,Crystal Robinson,Asia Pacific
+9ad2dcbc-d0b8-4e2a-aea4-9ea00ca6d590,Zachary Hicks,zachary.hicks@example.com,Engineering,Software,Thompson-James,1864.42,USD,2025-06-11,9179,Jessica Holmes,Latin America
+01a23534-02b3-4ab4-83e2-08676e684f54,Gabrielle Davis,gabrielle.davis@example.com,Sales,Lodging,Lee-Wright,309.55,USD,2025-03-13,3615,Brent Jordan,Latin America
+22d93c58-6738-4bcd-ad85-f14795baec6c,Brittany Farmer,brittany.farmer@example.com,Marketing,Office Supplies,Smith and Sons,251.29,USD,2025-12-24,2827,Michael Lewis,Asia Pacific
+57b88a17-c2fc-4ef2-9ac5-bad07c30753e,Angelica Tucker,angelica.tucker@example.com,Marketing,Travel,Hill Inc,2584.52,USD,2025-10-25,3646,John Daniel,North America
+ab65b663-ea65-4a2c-bff0-8e42db93a674,Justin Baker,justin.baker@example.com,Marketing,Office Supplies,Larson-Holloway,294.27,USD,2025-04-05,7572,Richard Aguirre,Asia Pacific
+829a4716-d832-4dd0-be89-698ac69202e3,Brittany Farmer,brittany.farmer@example.com,Marketing,Travel,Diaz-Ball,290.67,USD,2025-06-04,2827,Richard Aguirre,Asia Pacific
+ee177fb2-db30-4d1d-8b24-ac46d46c5ecc,Ethan Adams,ethan.adams@example.com,Operations,Meals,Dixon Inc,120.57,USD,2025-03-14,5010,Danny Morgan,Europe
+f6f1d928-2ff2-4097-9696-c59030e52801,Cristian Santos,cristian.santos@example.com,Sales,Travel,Graham Group,2526.39,USD,2025-07-14,2535,John Daniel,Europe
+c85f762a-aa5a-4d0e-8a33-93b1445d5e2a,Lisa Hensley,lisa.hensley@example.com,Marketing,Software,"Ramos, Nelson and Fischer",1372.7,USD,2025-08-10,6635,Richard Aguirre,Asia Pacific
+6162e55d-e5d1-4bf4-9ed6-a77f19e59d31,Noah Rhodes,noah.rhodes@example.com,Engineering,Client Entertainment,Williams PLC,465.44,USD,2025-08-17,4657,Mark Perez,Europe
+5343f9f4-cd85-4e9a-aaa6-7598c073c37d,Jeffrey Chavez,jeffrey.chavez@example.com,Engineering,Travel,"Wright, Garcia and Deleon",424.43,USD,2025-12-09,7916,Crystal Robinson,North America
+4c78f6ea-e982-437c-9e2e-55529df283b6,Patty Perez,patty.perez@example.com,Marketing,Client Entertainment,Robertson-Hays,671.22,USD,2025-07-26,2169,Richard Aguirre,Europe
+080b1bf1-7899-447c-97ee-3e9493fa7b0b,Tricia Valencia,tricia.valencia@example.com,Marketing,Client Entertainment,Scott and Sons,129.64,USD,2025-04-04,4593,Richard Aguirre,Europe
+dd0ce8e0-7479-4bfb-938c-c4c224dba489,Monica Herrera,monica.herrera@example.com,Engineering,Lodging,Davis-Lozano,342.28,USD,2025-12-17,6514,John Daniel,North America
+8bc525d0-d1d0-41d6-9d3b-e7a221f66368,Stephanie Ross,stephanie.ross@example.com,Sales,Meals,Yu Inc,66.53,USD,2025-04-08,4456,Danny Morgan,Asia Pacific
+850c8623-951a-4447-8450-f0d6ae52bc43,Angie Henderson,angie.henderson@example.com,Sales,Software,Johnson-Doyle,459.65,USD,2025-04-07,9935,Danny Morgan,North America
+57032d32-511c-4d65-8edd-0519c996f1b0,Anthony Humphrey,anthony.humphrey@example.com,Operations,Office Supplies,Chavez PLC,50.36,USD,2025-04-28,4258,Mark Perez,Europe
+2464d95d-693c-4262-a047-d73866056ef9,Cristian Santos,cristian.santos@example.com,Sales,Meals,Sullivan PLC,95.42,USD,2025-06-13,2535,Shannon Jones,Europe
+047a8fe1-a1d1-47ed-90bf-667daafa3133,Judy Baker,judy.baker@example.com,Sales,Lodging,White-Ford,352.95,USD,2025-06-20,4752,Brent Jordan,North America
+db4945c9-958e-4342-b19e-615f66198cf1,Gabrielle Davis,gabrielle.davis@example.com,Sales,Client Entertainment,Collins Group,325.21,USD,2025-05-03,3615,Shannon Jones,Latin America
+374375db-48bc-4b64-a553-b4e7259bba02,Judy Baker,judy.baker@example.com,Sales,Office Supplies,"Mckinney, Graves and Thompson",64.03,USD,2025-10-18,4752,Shannon Jones,North America
+1bd7cd29-95b9-46b7-9b4a-5c08b65d751c,Judy Baker,judy.baker@example.com,Sales,Client Entertainment,Foster Inc,429.96,USD,2025-12-24,4752,Timothy Duncan,North America
+ec98f9ca-06b2-4c21-8b73-398ff929f16f,Allison Hill,allison.hill@example.com,Sales,Client Entertainment,Gonzalez-Taylor,783.43,USD,2025-03-03,1409,Timothy Duncan,Asia Pacific
+92949ec2-ec79-4186-aa45-8f92b5095059,Nathan Maldonado,nathan.maldonado@example.com,Operations,Meals,Burch-Montoya,71.26,USD,2025-03-04,9085,Michael Lewis,North America
+b324714d-05b7-42ff-9ef4-37c8b8074a53,Cassandra Gaines,cassandra.gaines@example.com,Operations,Office Supplies,"Booker, Jones and Harrington",248.5,USD,2025-05-25,5119,Danny Morgan,North America
+168ae0cb-797a-44fe-a517-a335ac5de77a,Jamie Arnold,jamie.arnold@example.com,Sales,Travel,Anderson-Bailey,1825.6,USD,2025-09-20,7224,Mark Perez,North America
+63fd07fc-6ed9-4dc1-98af-097c97815e16,Rebecca Henderson,rebecca.henderson@example.com,Engineering,Software,"Gregory, Kim and Martinez",1142.95,USD,2025-12-29,5040,Shannon Jones,Asia Pacific
+4895463f-8e16-47e7-bd45-5b81f0500588,Gabrielle Davis,gabrielle.davis@example.com,Sales,Client Entertainment,"Diaz, Gibbs and Smith",94.99,USD,2025-08-07,3615,Brent Jordan,Latin America
+5a1d3f0b-f523-48a9-955c-169d56768323,Shane Henderson,shane.henderson@example.com,Marketing,Meals,"Shields, Cochran and Adams",186.27,USD,2025-04-02,4923,Crystal Robinson,North America
+27781e1f-cea6-411b-8d4e-49e956347ca5,Angie Henderson,angie.henderson@example.com,Sales,Travel,Brennan-Johnson,982.66,USD,2025-07-11,9935,Danny Morgan,North America
+6c4c68f9-2acd-408d-b918-76bfccde1457,Allison Hill,allison.hill@example.com,Sales,Lodging,Williams-Cook,423.18,USD,2025-04-27,1409,Danny Morgan,Asia Pacific
+879c0177-a788-4f54-a026-6207d611413c,Derek Zuniga,derek.zuniga@example.com,Marketing,Meals,Williams-Brown,28.21,USD,2025-03-06,2307,Shannon Jones,Europe
+418b14f2-bd75-433d-ac05-2c6567783d61,Lisa Hensley,lisa.hensley@example.com,Marketing,Travel,"Sparks, Jackson and Miller",2852.13,USD,2025-11-17,6635,Richard Aguirre,Asia Pacific
+ca9d6e81-f887-4739-8a8d-d56c274b3e4d,Brian Ramirez,brian.ramirez@example.com,Operations,Software,"Cox, Stark and Rodriguez",783.31,USD,2025-11-14,6925,Timothy Duncan,Europe
+3f73919a-b878-4bd7-a2d5-9fdc7a31ffb3,Lisa Jackson,lisa.jackson@example.com,Sales,Office Supplies,Warner-Gibson,265.45,USD,2025-07-08,7227,Danny Morgan,Asia Pacific
+1b1da835-ce90-457f-9f09-859477c9310e,Nathan Maldonado,nathan.maldonado@example.com,Operations,Software,"Morales, Williams and Williams",1407.8,USD,2025-06-08,9085,Crystal Robinson,North America
+66e49ae3-5eed-4a70-aa8f-32be4b7dfcdb,Lisa Jackson,lisa.jackson@example.com,Sales,Meals,Welch-Hogan,23.1,USD,2025-03-19,7227,Jessica Holmes,Asia Pacific
+fcecea2c-1226-42ca-af64-928e44ca79dd,Cristian Santos,cristian.santos@example.com,Sales,Office Supplies,"Johnson, Miller and King",236.64,USD,2025-04-13,2535,Michael Lewis,Europe
+78ae6660-7eae-42bf-aca3-86f920796c4e,Justin Baker,justin.baker@example.com,Marketing,Travel,Salas-Fitzgerald,1731.32,USD,2025-03-27,7572,Crystal Robinson,Asia Pacific
+a30dde77-2fe9-4cbc-8f35-bdd1b79713ff,Debra Davidson,debra.davidson@example.com,Sales,Meals,Murphy PLC,141.12,USD,2025-08-02,2796,Jessica Holmes,Europe
+969ab9a7-6446-41b4-876f-c0e2878ac2c6,Lisa Jackson,lisa.jackson@example.com,Sales,Lodging,"Burns, Nolan and Griffin",109.05,USD,2025-11-26,7227,Timothy Duncan,Asia Pacific
+054ce6c6-7722-405d-818f-9ff038292af0,Cristian Santos,cristian.santos@example.com,Sales,Meals,Robles-Swanson,163.86,USD,2025-08-17,2535,Brent Jordan,Europe
+128aa9f2-a254-4f56-aa3f-fc02c4c5d2a7,Tricia Valencia,tricia.valencia@example.com,Marketing,Software,"Mccall, Hanson and Alvarado",1350.44,USD,2025-05-07,4593,Timothy Duncan,Europe
+de3764d3-fb5f-449c-9d80-317aeea1f08a,Judy Baker,judy.baker@example.com,Sales,Client Entertainment,"Hall, Hansen and Barnett",330.47,USD,2025-05-30,4752,Danny Morgan,North America
+742f1ef6-6a0f-4e5a-af5d-2384e2b64059,Monica Herrera,monica.herrera@example.com,Engineering,Software,Kerr-Evans,852.71,USD,2025-07-12,6514,Shannon Jones,North America
+368c31bb-9823-4fa4-9802-31b6d1661602,Connie Lawrence,connie.lawrence@example.com,Engineering,Travel,Roberts-Sullivan,842.18,USD,2025-11-21,9279,Crystal Robinson,North America
+51614136-6121-470c-91db-93bf7f3f17a8,Elizabeth Fowler,elizabeth.fowler@example.com,Sales,Software,Wilson-Jones,100.44,USD,2025-03-30,9797,John Daniel,Asia Pacific
+f4e6db75-aee9-4033-bf20-d52beacac947,Ryan Munoz,ryan.munoz@example.com,Marketing,Travel,Mcdaniel Group,1406.52,USD,2025-11-11,5552,Michael Lewis,Europe
+a4291441-c12b-4031-aff8-cf5f6a19cf2a,Allison Hill,allison.hill@example.com,Sales,Lodging,Roberts-Landry,140.55,USD,2025-12-05,1409,Crystal Robinson,Asia Pacific
+4f0ef32b-f9eb-4785-a2ce-ec63858df8da,Allison Hill,allison.hill@example.com,Sales,Office Supplies,"Tapia, Vaughn and Lee",140.65,USD,2025-08-19,1409,Richard Aguirre,Asia Pacific
+84cf9490-2a66-479b-80f4-bc3d7763128c,Brian Ramirez,brian.ramirez@example.com,Operations,Office Supplies,Kim Inc,195.3,USD,2025-08-30,6925,Richard Aguirre,Europe
+d89a97f9-0aaa-45c5-a494-23560ebd27e5,Jamie Arnold,jamie.arnold@example.com,Sales,Office Supplies,"Huang, Cole and Pacheco",210.7,USD,2025-05-23,7224,Brent Jordan,North America
+4ec9158f-b2bd-4868-b3d1-75596052e07c,Anthony Humphrey,anthony.humphrey@example.com,Operations,Meals,Morgan-Schwartz,102.22,USD,2025-08-29,4258,Brent Jordan,Europe
+a2135df0-8123-420d-92d0-75f3d74801a2,Tricia Valencia,tricia.valencia@example.com,Marketing,Client Entertainment,"Mullen, Brewer and Hernandez",465.61,USD,2025-06-01,4593,Richard Aguirre,Europe
+f8e0a74d-cee3-4cd1-93d9-2a73208d5a78,Gabrielle Davis,gabrielle.davis@example.com,Sales,Office Supplies,Castaneda-Ashley,62.7,USD,2025-04-12,3615,Timothy Duncan,Latin America
+7e219b43-a6c6-4315-a596-c42774eab658,Michele Williams,michele.williams@example.com,Sales,Office Supplies,"Soto, Carlson and Baker",70.58,USD,2025-12-19,8527,Michael Lewis,North America
+946daf14-b9a7-43b6-ab51-1c787c4d9776,Sherry Decker,sherry.decker@example.com,Operations,Travel,"Lawson, Morris and Ramos",922.98,USD,2025-09-15,2743,John Daniel,Asia Pacific
+07506359-e230-4a6f-8595-df6804ac4fac,Brittany Farmer,brittany.farmer@example.com,Marketing,Office Supplies,"Whitney, Gould and Jones",65.76,USD,2025-04-06,2827,Shannon Jones,Asia Pacific
+82c0d839-0865-48c9-b5bc-e7f11c8929ee,John Pierce,john.pierce@example.com,Sales,Office Supplies,Wilson-Harris,283.46,USD,2025-03-23,2832,Richard Aguirre,Asia Pacific
+9fe46923-b833-47e5-8e6f-cc4e0843d86f,Tommy Walter,tommy.walter@example.com,Finance,Lodging,Wells Inc,454.46,USD,2025-06-28,7216,Crystal Robinson,Asia Pacific
+fc3f6c6a-b7a6-40c4-b7a2-1c5a0ca2b28f,John Pierce,john.pierce@example.com,Sales,Software,Gilbert-Bullock,1951.98,USD,2025-02-20,2832,Michael Lewis,Asia Pacific
+0ea959bf-964f-4e44-bbb4-a57b887b9c17,Philip Cannon,philip.cannon@example.com,Operations,Client Entertainment,"Kennedy, Johnson and Lucas",274.84,USD,2025-11-13,6310,Jessica Holmes,Latin America
+9725a233-5dcc-4a98-9ad4-55106a229f4c,Margaret Hawkins DDS,margaret.hawkins.dds@example.com,Marketing,Office Supplies,Young-Molina,13.58,USD,2025-06-10,6820,Timothy Duncan,Europe
+97dd4f2a-f178-499d-b807-584c7750d18c,Ethan Adams,ethan.adams@example.com,Operations,Client Entertainment,Hicks-Hill,274.37,USD,2025-06-14,5010,Shannon Jones,Europe
+27c930e4-2018-46cc-a71c-b3ff8a48486f,Angie Henderson,angie.henderson@example.com,Sales,Lodging,Thomas and Sons,242.49,USD,2025-05-25,9935,Shannon Jones,North America
+689d091d-e4ed-4968-b76d-578544ffde07,Shane Henderson,shane.henderson@example.com,Marketing,Lodging,Davis-Gregory,147.19,USD,2025-01-13,4923,Crystal Robinson,North America
+ce3b010d-1339-41ca-8f1f-17a871130b69,Margaret Hawkins DDS,margaret.hawkins.dds@example.com,Marketing,Software,"Brown, Romero and Collins",1055.0,USD,2025-11-13,6820,Brent Jordan,Europe
+d406fab8-769a-493b-9bf8-414ec2a90716,Angie Henderson,angie.henderson@example.com,Sales,Travel,"Marshall, Dominguez and Welch",497.41,USD,2025-05-10,9935,Richard Aguirre,North America
+c0eb9b8f-bdfd-4df8-87f4-5d2e43f6d9f0,Brian Ramirez,brian.ramirez@example.com,Operations,Software,Hancock Inc,1354.51,USD,2025-03-25,6925,Brent Jordan,Europe
+ff2dea54-f786-46f9-8408-d3b6d9008a48,Gabrielle Davis,gabrielle.davis@example.com,Sales,Lodging,"Rosales, Mitchell and Hines",207.19,USD,2025-07-27,3615,Danny Morgan,Latin America
+227a4a6f-7c8b-4726-ba4f-6f310d6c1e76,Philip Cannon,philip.cannon@example.com,Operations,Software,Davis Group,1242.77,USD,2025-11-10,6310,Brent Jordan,Latin America
+30a87151-8474-4eb6-9d5e-87f15f7a3a7d,Philip Cannon,philip.cannon@example.com,Operations,Client Entertainment,"Barnett, Rogers and Snyder",144.94,USD,2025-01-18,6310,Jessica Holmes,Latin America
+4305f418-f4eb-4478-944e-07b7b9b5f686,Margaret Hawkins DDS,margaret.hawkins.dds@example.com,Marketing,Client Entertainment,"Becker, Taylor and Davis",161.25,USD,2025-02-19,6820,Shannon Jones,Europe
+a42b43cf-5ec5-4745-a27f-a61f13c05457,Derek Zuniga,derek.zuniga@example.com,Marketing,Client Entertainment,"Phillips, Wagner and Jordan",92.13,USD,2025-07-17,2307,Danny Morgan,Europe
+0179fcfd-9bc9-4ecb-947b-539f2043e48e,Daniel Wagner,daniel.wagner@example.com,Operations,Software,Young-Martinez,1893.5,USD,2025-12-02,7912,John Daniel,North America
+cb9e1885-b967-426c-a3ce-e867da607fb7,Patty Perez,patty.perez@example.com,Marketing,Travel,White-Estes,434.49,USD,2025-04-12,2169,Crystal Robinson,Europe
+4dda6235-92af-472b-bae8-f69c630e7515,Monica Herrera,monica.herrera@example.com,Engineering,Client Entertainment,White-Green,505.44,USD,2025-10-18,6514,Danny Morgan,North America
+88b4e179-32d4-45bd-a0c0-261dece61bf6,Derek Zuniga,derek.zuniga@example.com,Marketing,Office Supplies,Whitney PLC,205.36,USD,2025-08-23,2307,Jessica Holmes,Europe
+6350ffad-67ec-450d-a8d8-41d15aa9670e,Philip Cannon,philip.cannon@example.com,Operations,Office Supplies,Jones Inc,299.21,USD,2025-11-11,6310,Michael Lewis,Latin America
+a1b19ee7-587a-4fca-b1f2-2c157cf7f640,Tommy Walter,tommy.walter@example.com,Finance,Office Supplies,Wright-Davis,140.08,USD,2025-12-23,7216,Timothy Duncan,Asia Pacific
+86c7cea3-3bc3-4df7-8cff-2ce49646dfcf,Connie Lawrence,connie.lawrence@example.com,Engineering,Office Supplies,"Ramsey, Whitney and Coffey",38.0,USD,2025-10-14,9279,Michael Lewis,North America
+75468eab-d76b-485a-8ed9-f7b47f1b5bbe,Brian Ramirez,brian.ramirez@example.com,Operations,Software,"Cole, Pierce and Bryan",1758.7,USD,2025-09-14,6925,Brent Jordan,Europe
+38092193-6919-48cf-a430-e182edc246f1,Brian Ramirez,brian.ramirez@example.com,Operations,Travel,"Turner, Schneider and Johnson",524.69,USD,2025-03-18,6925,Crystal Robinson,Europe
+d7e17053-17a4-452b-8d17-0d38728b5ee6,Joshua Blair,joshua.blair@example.com,Engineering,Meals,King-Martinez,130.72,USD,2025-04-13,2290,Danny Morgan,North America
+aea65aae-29d8-4503-8ab4-cdba9ae7494f,Ethan Adams,ethan.adams@example.com,Operations,Travel,Rodriguez-Hall,1775.96,USD,2025-03-24,5010,Crystal Robinson,Europe
+34cb4b5e-dbbb-4167-8962-9536cc7ec4b0,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Travel,Hernandez-Vaughn,2428.17,USD,2025-10-08,3340,Richard Aguirre,Asia Pacific
+974ca677-0fd8-441b-b4d1-a83ec4b31a41,Shane Henderson,shane.henderson@example.com,Marketing,Software,Marshall-Elliott,310.15,USD,2025-05-17,4923,Brent Jordan,North America
+c20b17ae-10a1-4256-9d44-4a51943cd5f7,Paula Moreno,paula.moreno@example.com,Finance,Meals,Stewart-Bailey,27.57,USD,2025-02-28,3591,Jessica Holmes,Latin America
+d6143d5f-9dd1-4990-b1bf-435ee7f5627c,Gabrielle Davis,gabrielle.davis@example.com,Sales,Software,Walsh LLC,275.09,USD,2025-02-11,3615,Brent Jordan,Latin America
+babc2132-b96f-4961-b5e0-172a426e3736,Eric Carney,eric.carney@example.com,Finance,Lodging,"Rodriguez, Allen and Martinez",490.9,USD,2025-09-08,2133,Timothy Duncan,Europe
+fc0845be-08ed-48f3-9977-7edca22cab75,Jeffrey Chavez,jeffrey.chavez@example.com,Engineering,Lodging,Perry-Davis,456.27,USD,2025-06-24,7916,John Daniel,North America
+24e682a0-6f9c-4842-8f46-0b4cfa473eef,Dylan Miller,dylan.miller@example.com,Finance,Lodging,Dean-Jimenez,117.96,USD,2025-02-08,2291,Danny Morgan,Asia Pacific
+fcc9f0f3-92b1-4812-b8ae-7b4938a4c66d,Shane Henderson,shane.henderson@example.com,Marketing,Meals,Edwards Ltd,121.99,USD,2025-01-18,4923,Timothy Duncan,North America
+87a6b2aa-f097-4ec5-b196-136c524f955d,Matthew Foster,matthew.foster@example.com,Operations,Client Entertainment,Rangel LLC,74.29,USD,2025-03-01,4598,Richard Aguirre,Asia Pacific
+bf028c03-98d6-448a-99e6-0c00b69c9417,Gina Moore,gina.moore@example.com,Engineering,Client Entertainment,Davis and Sons,623.33,USD,2025-08-24,8359,John Daniel,Asia Pacific
+b61557a8-449e-4ebd-89e0-287539ab4dda,Carla Gray,carla.gray@example.com,Finance,Travel,Mendoza Group,2851.59,USD,2025-05-10,6977,John Daniel,Europe
+c58301a9-a48c-4e7d-b348-cb2fb5d872a7,Paula Moreno,paula.moreno@example.com,Finance,Lodging,Huang-Foster,472.24,USD,2025-12-21,3591,Richard Aguirre,Latin America
+24994164-9d8e-4999-bb01-f44ee435b4ee,Brittany Farmer,brittany.farmer@example.com,Marketing,Meals,Holt-Torres,158.5,USD,2025-05-28,2827,Richard Aguirre,Asia Pacific
+e1e20b36-e3ac-4f79-8a9e-ecdcd1039b15,Nathan Maldonado,nathan.maldonado@example.com,Operations,Office Supplies,Williams-Berg,100.99,USD,2025-03-09,9085,Richard Aguirre,North America
+0e6b52c3-2f71-40d6-bf74-63cac7eedadc,Eric Carney,eric.carney@example.com,Finance,Software,Collier-Gillespie,513.4,USD,2025-02-17,2133,Jessica Holmes,Europe
+ba846d3d-0805-4417-8b95-598dff4bc0c3,Cristian Santos,cristian.santos@example.com,Sales,Software,"Morales, Thomas and Schultz",1696.64,USD,2025-02-09,2535,Brent Jordan,Europe
+910ea89a-aa69-40f4-870f-3bf910688da8,Margaret Hawkins DDS,margaret.hawkins.dds@example.com,Marketing,Client Entertainment,Brown-Copeland,590.85,USD,2025-03-15,6820,Crystal Robinson,Europe
+3beb19c8-599c-4f0a-9a33-1444a96863b1,Connie Lawrence,connie.lawrence@example.com,Engineering,Software,Rodriguez-Johnson,1769.18,USD,2025-04-05,9279,Richard Aguirre,North America
+5342f792-ad8f-4f0d-bd14-6eed4231c03f,Carla Gray,carla.gray@example.com,Finance,Office Supplies,"Cook, Wells and Bryant",63.32,USD,2025-07-28,6977,Richard Aguirre,Europe
+daf09735-55ac-4491-ac3a-d8ae0a14d246,Joshua Blair,joshua.blair@example.com,Engineering,Office Supplies,"Miller, Hernandez and Reyes",257.5,USD,2025-11-21,2290,Timothy Duncan,North America
+ac0b31f3-b9ea-40ad-b8e8-6ec23a5ba8f2,Rebecca Henderson,rebecca.henderson@example.com,Engineering,Travel,Miller Ltd,2484.14,USD,2025-06-05,5040,Richard Aguirre,Asia Pacific
+21e38126-ed69-481d-b57f-86c693cfc9da,Noah Rhodes,noah.rhodes@example.com,Engineering,Travel,"Thomas, Murray and King",2381.7,USD,2025-04-05,4657,Crystal Robinson,Europe
+b03a9928-d05a-4f56-94f6-af2ce5b4e3d1,Brittany Farmer,brittany.farmer@example.com,Marketing,Lodging,Walker-Flores,92.72,USD,2025-12-12,2827,Brent Jordan,Asia Pacific
+6ab5e715-6a78-461b-a144-c815aabf878e,Debra Davidson,debra.davidson@example.com,Sales,Lodging,Mccarthy Inc,388.55,USD,2025-11-07,2796,John Daniel,Europe
+c5511f07-6ad6-4de0-804f-19f8c450da1a,Elizabeth Fowler,elizabeth.fowler@example.com,Sales,Meals,Hayes LLC,115.91,USD,2025-05-05,9797,Danny Morgan,Asia Pacific
+b3fc52b9-ba57-4212-b264-50e930a0fb64,Eric Carney,eric.carney@example.com,Finance,Office Supplies,Kane PLC,65.68,USD,2025-02-23,2133,Crystal Robinson,Europe
+7650f41a-42e9-46d2-b45e-b0ba1b04305a,Derek Zuniga,derek.zuniga@example.com,Marketing,Office Supplies,Garcia-Jennings,201.96,USD,2025-07-08,2307,John Daniel,Europe
+2fd41747-3b2b-4cc5-a9cc-98718ec0cd1a,Cassandra Gaines,cassandra.gaines@example.com,Operations,Office Supplies,"Fisher, Wilson and Brown",161.95,USD,2025-06-03,5119,Shannon Jones,North America
+cda02545-1c7e-4055-bac7-2474f31a2589,Zachary Hicks,zachary.hicks@example.com,Engineering,Client Entertainment,"Khan, Pena and Ruiz",554.02,USD,2025-12-05,9179,Jessica Holmes,Latin America
+59122e8b-1c87-41c7-b94a-a30168b7fd68,John Pierce,john.pierce@example.com,Sales,Client Entertainment,"Higgins, Strickland and Martin",251.3,USD,2025-11-27,2832,Mark Perez,Asia Pacific
+bb46429e-b0c0-4d4c-a94a-c0f4b8132eb3,Derek Zuniga,derek.zuniga@example.com,Marketing,Office Supplies,"Fernandez, Kim and George",108.56,USD,2025-11-02,2307,Brent Jordan,Europe
+e4f740ff-831b-42f1-93a8-7fbd717dfff4,Sherri Baker,sherri.baker@example.com,Finance,Lodging,"Lloyd, Mckinney and Collins",412.86,USD,2025-03-08,7252,Crystal Robinson,Latin America
+2889c585-34a6-4162-bef3-96f675b7c193,Noah Rhodes,noah.rhodes@example.com,Engineering,Software,"Farmer, Dorsey and Bell",652.29,USD,2025-03-25,4657,Michael Lewis,Europe
+f3d93634-d961-43f6-94d4-748df7275b62,Margaret Hawkins DDS,margaret.hawkins.dds@example.com,Marketing,Travel,Armstrong-Andrews,605.31,USD,2025-01-21,6820,Crystal Robinson,Europe
+6d52757a-9025-46fc-b375-4503a319149c,Rebecca Henderson,rebecca.henderson@example.com,Engineering,Lodging,Parker-Morrison,385.51,USD,2025-10-02,5040,Crystal Robinson,Asia Pacific
+a42d2803-be0c-4954-85c7-ac1819807e19,Gabrielle Davis,gabrielle.davis@example.com,Sales,Software,Carter Inc,1866.17,USD,2025-05-04,3615,Crystal Robinson,Latin America
+e7771b2c-bcb4-4040-af62-0dcf96b2161b,Debra Davidson,debra.davidson@example.com,Sales,Meals,Luna-Gallagher,154.56,USD,2025-10-29,2796,Jessica Holmes,Europe
+e63ac54c-b63f-4df8-8d23-6405ce434517,Tommy Walter,tommy.walter@example.com,Finance,Software,Kelly-Norman,1363.92,USD,2025-06-11,7216,John Daniel,Asia Pacific
+595a11fc-8caa-4908-ad95-0e91e5b457f6,Sherry Decker,sherry.decker@example.com,Operations,Travel,Bush-Vaughn,2316.58,USD,2025-06-10,2743,Crystal Robinson,Asia Pacific
+cae6bb94-75f5-4251-8217-5343d46ecb5a,Gina Moore,gina.moore@example.com,Engineering,Software,"Bentley, Lynch and Henderson",926.71,USD,2025-02-24,8359,Danny Morgan,Asia Pacific
+e4c76891-da7f-4443-8c3b-64a3b06ab5b6,James Ferrell,james.ferrell@example.com,Operations,Software,Sanders-Espinoza,404.59,USD,2025-03-24,8019,Michael Lewis,Latin America
+ac008adb-fd6d-4d59-88ac-8c950ee385f0,Connie Lawrence,connie.lawrence@example.com,Engineering,Software,Spencer-Garcia,432.79,USD,2025-08-02,9279,Shannon Jones,North America
+a3c67d06-671d-413e-984b-788db7aa0dc1,Justin Baker,justin.baker@example.com,Marketing,Travel,Williams-Moses,148.51,USD,2025-10-08,7572,Shannon Jones,Asia Pacific
+e661411e-27f6-4781-bbb0-9f4c37431cb5,Sherri Baker,sherri.baker@example.com,Finance,Meals,Morgan-Lopez,148.46,USD,2025-08-15,7252,Richard Aguirre,Latin America
+144e1685-cb66-4812-9e6c-093151007d94,Tommy Walter,tommy.walter@example.com,Finance,Travel,Garcia-Lozano,2392.98,USD,2025-01-06,7216,Shannon Jones,Asia Pacific
+83a66e1c-673f-49cb-a1cc-aeae14a91503,Tommy Walter,tommy.walter@example.com,Finance,Meals,Jones-Hensley,20.21,USD,2025-12-28,7216,Danny Morgan,Asia Pacific
+2769896a-cd41-4fc1-945c-82152f5bbd9e,Derek Zuniga,derek.zuniga@example.com,Marketing,Meals,Torres-Pope,160.66,USD,2025-02-11,2307,Timothy Duncan,Europe
+c1cc1eb1-853b-4ee7-958d-73a9c0c99a37,Nathan Maldonado,nathan.maldonado@example.com,Operations,Client Entertainment,Garner-Thornton,735.12,USD,2025-11-19,9085,Crystal Robinson,North America
+65a0fd74-ebfa-4230-a1f7-9dafb1af080c,Angelica Tucker,angelica.tucker@example.com,Marketing,Office Supplies,Reed Group,197.31,USD,2025-07-10,3646,Richard Aguirre,North America
+607b3c30-257b-4697-a49b-6fa571375a34,James Ferrell,james.ferrell@example.com,Operations,Office Supplies,Russell Group,197.02,USD,2025-05-09,8019,John Daniel,Latin America
+9f5a4029-3e3e-47d2-9777-309ad8493be3,James Ferrell,james.ferrell@example.com,Operations,Travel,"Andrews, Higgins and Carter",361.14,USD,2025-06-02,8019,Brent Jordan,Latin America
+c48a9245-4959-4e2e-8e2e-6eb983fc5bc8,Allison Hill,allison.hill@example.com,Sales,Software,Humphrey PLC,797.97,USD,2025-06-23,1409,Shannon Jones,Asia Pacific
+85a3a4eb-82d5-48c5-adc5-9e37731d98e9,Rebecca Henderson,rebecca.henderson@example.com,Engineering,Software,Gill Ltd,396.39,USD,2025-06-04,5040,Michael Lewis,Asia Pacific
+62fe34bc-4016-4d75-8c1c-f13f891dc9ad,Daniel Wagner,daniel.wagner@example.com,Operations,Software,"Butler, Beck and Miller",1015.04,USD,2025-12-09,7912,Richard Aguirre,North America
+fd378fa8-7e19-4642-8994-3d008de8ff76,John Pierce,john.pierce@example.com,Sales,Meals,Stein-Silva,170.49,USD,2025-12-24,2832,Crystal Robinson,Asia Pacific
+f4fd5940-7f67-4043-8ceb-c5538b581ca4,Tommy Walter,tommy.walter@example.com,Finance,Software,Anderson-Bell,1137.77,USD,2025-05-22,7216,Crystal Robinson,Asia Pacific
+48bd6728-c32a-440b-acf8-d1dee8350803,Lisa Jackson,lisa.jackson@example.com,Sales,Lodging,Bean LLC,464.92,USD,2025-07-10,7227,Mark Perez,Asia Pacific
+ee1f3e06-1e87-41a8-afec-e4508448aa38,Holly Wood,holly.wood@example.com,Sales,Lodging,Bryant-Brown,144.74,USD,2025-06-14,1750,Timothy Duncan,Europe
+43fdf6ed-2f2f-47e5-b723-20e389605b70,Shane Henderson,shane.henderson@example.com,Marketing,Software,Strickland-Palmer,482.07,USD,2025-10-30,4923,Crystal Robinson,North America
+2b9df21e-e701-445e-8097-0f121ffd56c4,Sherry Decker,sherry.decker@example.com,Operations,Office Supplies,Harvey PLC,75.03,USD,2025-02-12,2743,Michael Lewis,Asia Pacific
+01a85309-a2fc-419e-995e-942129f502a6,Zachary Hicks,zachary.hicks@example.com,Engineering,Travel,Evans-Jones,1414.95,USD,2025-07-19,9179,Timothy Duncan,Latin America
+b62bbfa9-ca54-4218-a321-9efb67210ed9,Ryan Munoz,ryan.munoz@example.com,Marketing,Lodging,Acosta Inc,181.72,USD,2025-08-11,5552,Danny Morgan,Europe
+290bc2c9-496f-4591-9c27-d3b8a1849571,Eric Carney,eric.carney@example.com,Finance,Meals,Lewis-Murphy,193.47,USD,2025-02-11,2133,John Daniel,Europe
+38c43608-5c3e-4f18-b35b-4d6f711dd00d,James Ferrell,james.ferrell@example.com,Operations,Lodging,Jones and Sons,202.58,USD,2025-10-01,8019,Shannon Jones,Latin America
+d0f72cbc-6c41-4652-91ed-8d728441c0cc,Debra Davidson,debra.davidson@example.com,Sales,Software,Mendez-Graham,1115.23,USD,2025-09-20,2796,Shannon Jones,Europe
+5e13c085-c2ef-4246-9600-db7022e976d4,Joshua Blair,joshua.blair@example.com,Engineering,Office Supplies,Payne-Lowe,290.29,USD,2025-09-07,2290,Richard Aguirre,North America
+b3108354-cac1-4b51-98a5-633cad5e8768,Holly Wood,holly.wood@example.com,Sales,Lodging,"Bartlett, Brown and Martinez",231.01,USD,2025-04-02,1750,Jessica Holmes,Europe
+7071bb0e-2884-4735-80fe-1b36b9bcfb5c,Elizabeth Fowler,elizabeth.fowler@example.com,Sales,Lodging,"Kim, Gonzales and Mills",258.97,USD,2025-09-25,9797,Richard Aguirre,Asia Pacific
+f5cec533-35eb-4c42-9210-1a7875217a82,Daniel Wagner,daniel.wagner@example.com,Operations,Lodging,"Pugh, Henderson and Moon",351.87,USD,2025-01-26,7912,Michael Lewis,North America
+97c5d0d3-89eb-4b55-8b30-4dc59b7ffeb4,Monica Herrera,monica.herrera@example.com,Engineering,Meals,Stewart Ltd,47.16,USD,2025-01-30,6514,Crystal Robinson,North America
+9acf4dd5-0b68-4414-9bd8-bf57ebeed34f,Eric Carney,eric.carney@example.com,Finance,Office Supplies,"Clark, Guerrero and Moore",260.82,USD,2025-11-17,2133,Jessica Holmes,Europe
+fcb94bef-ad53-4dfe-9e3e-3fb181e21816,Fred Smith,fred.smith@example.com,Sales,Travel,"Brennan, Wallace and Benson",2517.71,USD,2025-08-28,5315,Timothy Duncan,Europe
+4478e417-6877-44c7-803c-239ed2d776ed,Brittany Farmer,brittany.farmer@example.com,Marketing,Client Entertainment,Gutierrez Group,430.3,USD,2025-06-29,2827,John Daniel,Asia Pacific
+005a5cda-2b10-43e7-8c15-f19d7f095860,Lisa Jackson,lisa.jackson@example.com,Sales,Travel,"Hernandez, Cole and Watson",934.13,USD,2025-10-05,7227,Danny Morgan,Asia Pacific
+0535b4e6-0de9-429d-bbe4-1c76b34561cb,Sherri Baker,sherri.baker@example.com,Finance,Travel,Hernandez PLC,2313.02,USD,2025-03-10,7252,Richard Aguirre,Latin America
+76ca5a69-5f64-4fcc-aab3-bda3fbc17696,Patty Perez,patty.perez@example.com,Marketing,Travel,Moore Group,1789.94,USD,2025-02-24,2169,Michael Lewis,Europe
+5e3e1456-3166-48e4-ac24-24b22e9bbd7b,Lisa Hensley,lisa.hensley@example.com,Marketing,Meals,"Adams, Christian and Rivas",151.64,USD,2025-04-18,6635,John Daniel,Asia Pacific
+3586bd55-d9e6-4b36-a661-1fb7e2008e3d,Lisa Jackson,lisa.jackson@example.com,Sales,Lodging,Combs Ltd,481.79,USD,2025-07-07,7227,Mark Perez,Asia Pacific
+28bdb9ee-21c4-4c90-a341-ed9dfd5ed66f,Debra Davidson,debra.davidson@example.com,Sales,Travel,Gutierrez-Lopez,1890.63,USD,2025-04-02,2796,Shannon Jones,Europe
+ea38eb70-2fe0-4c6a-bc0a-4c0303a452d0,Angie Henderson,angie.henderson@example.com,Sales,Lodging,Levy-Lewis,256.08,USD,2025-10-25,9935,Jessica Holmes,North America
+3551ca06-eaea-48c6-9694-b3d60cefcfff,Stephanie Ross,stephanie.ross@example.com,Sales,Office Supplies,"Shaw, Nelson and Martin",267.55,USD,2025-06-10,4456,Michael Lewis,Asia Pacific
+3de37577-c7aa-4582-99a5-54b7c921dffd,Justin Baker,justin.baker@example.com,Marketing,Client Entertainment,Good-Hodges,606.7,USD,2025-03-02,7572,Timothy Duncan,Asia Pacific
+36550584-f3b2-4316-a77a-144814ae970c,Abigail Shaffer,abigail.shaffer@example.com,Operations,Lodging,Curry Inc,404.44,USD,2025-11-27,4257,John Daniel,Latin America
+8b33ab70-eccf-49be-bba6-32f9456a8ce2,Stephanie Ross,stephanie.ross@example.com,Sales,Meals,"Gould, Marshall and Scott",150.75,USD,2025-09-10,4456,Shannon Jones,Asia Pacific
+c176c907-93f9-4a88-a657-e49fca6f8300,Patty Perez,patty.perez@example.com,Marketing,Lodging,"Griffin, Davies and Mitchell",278.41,USD,2025-09-22,2169,Crystal Robinson,Europe
+bf7870d6-9728-4082-8222-15e2e32c22ab,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Software,Landry PLC,352.49,USD,2025-03-15,3340,Danny Morgan,Asia Pacific
+79809d38-839d-419a-8a75-2b876081b395,Cristian Santos,cristian.santos@example.com,Sales,Lodging,"Williams, Mccoy and Cook",347.76,USD,2025-05-22,2535,Brent Jordan,Europe
+0309488d-04af-47dd-9e4e-7d140b371e79,Nathan Maldonado,nathan.maldonado@example.com,Operations,Office Supplies,"Osborn, Gaines and Davis",274.93,USD,2025-02-15,9085,Shannon Jones,North America
+c25bce5c-4e0d-45b5-8682-536d19aca3e2,Debra Davidson,debra.davidson@example.com,Sales,Travel,Bowen Group,1418.88,USD,2025-09-19,2796,Shannon Jones,Europe
+ae5e7731-7139-4cbf-ae16-10f01e3ae60a,Rebecca Henderson,rebecca.henderson@example.com,Engineering,Travel,"Carrillo, Vaughn and Fowler",1147.26,USD,2025-04-06,5040,Richard Aguirre,Asia Pacific
+409904a0-8ac4-4bbc-ac3e-b868054cf294,Sherry Decker,sherry.decker@example.com,Operations,Meals,"Morgan, Bradshaw and Williams",155.94,USD,2025-09-22,2743,John Daniel,Asia Pacific
+f927b5a3-d133-4cb9-bc6d-601cef4faf79,Jeffrey Chavez,jeffrey.chavez@example.com,Engineering,Lodging,Jackson-Meza,335.73,USD,2025-06-14,7916,Danny Morgan,North America
+726b848f-b187-45e3-9737-72b9edfb801b,Jeffrey Chavez,jeffrey.chavez@example.com,Engineering,Travel,Garcia LLC,1598.22,USD,2025-03-16,7916,Danny Morgan,North America
+d4a2df1a-aa4e-4dd1-8c52-791237982967,Shane Henderson,shane.henderson@example.com,Marketing,Client Entertainment,Cannon Ltd,468.02,USD,2025-08-21,4923,Timothy Duncan,North America
+7a3b66b4-6c00-4987-9b53-fe4ea325eb58,Justin Baker,justin.baker@example.com,Marketing,Lodging,"Carter, Garcia and Murphy",165.63,USD,2025-07-14,7572,John Daniel,Asia Pacific
+14e00cf4-f13c-4aaf-832a-b8c5aadc4b4c,Gina Moore,gina.moore@example.com,Engineering,Travel,Jones PLC,1542.42,USD,2025-06-17,8359,Crystal Robinson,Asia Pacific
+b6ac515f-c918-4b1c-9a05-be43ec78838a,Patty Perez,patty.perez@example.com,Marketing,Client Entertainment,Hays-Daniels,626.75,USD,2025-08-20,2169,Timothy Duncan,Europe
+baeae025-9b7a-4c54-b12a-bfe4b45d74e3,Allison Hill,allison.hill@example.com,Sales,Software,Nolan-Flynn,1553.68,USD,2025-09-05,1409,Shannon Jones,Asia Pacific
+c84174b6-66f2-439c-9b44-d0cd814eb0bc,Fred Smith,fred.smith@example.com,Sales,Travel,"Yates, Ramsey and Pittman",2365.58,USD,2025-09-11,5315,Jessica Holmes,Europe
+90219bf7-f64d-4a3c-9211-3f3ccba2cda7,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Travel,Martin-Ewing,1730.92,USD,2025-06-11,3340,Brent Jordan,Asia Pacific
+54a03b5e-5fe5-4da2-95ba-2f5ac1cb1126,Elizabeth Fowler,elizabeth.fowler@example.com,Sales,Client Entertainment,Richardson-Walker,196.66,USD,2025-02-11,9797,Crystal Robinson,Asia Pacific
+cbe155de-52ac-4cdf-8429-40eee4b49d80,Patty Perez,patty.perez@example.com,Marketing,Software,"Hernandez, Thompson and Boyd",1420.57,USD,2025-04-16,2169,Shannon Jones,Europe
+6ab06e68-38b2-47aa-a5d7-e2b0bb3f53c7,Elizabeth Fowler,elizabeth.fowler@example.com,Sales,Office Supplies,Paul-Kline,87.0,USD,2025-09-12,9797,John Daniel,Asia Pacific
+93222dc7-3d8f-4c82-a0f8-cf6978bfe1fe,Ethan Adams,ethan.adams@example.com,Operations,Lodging,Chandler-Edwards,410.3,USD,2025-06-19,5010,John Daniel,Europe
+c299422f-92df-4967-ad29-c4e451bd1ef0,Monica Herrera,monica.herrera@example.com,Engineering,Lodging,Nolan and Sons,265.57,USD,2025-10-02,6514,Timothy Duncan,North America
+895a378e-1de4-4941-817f-b6200f4769b1,Sherry Decker,sherry.decker@example.com,Operations,Office Supplies,"Branch, Torres and Oliver",245.93,USD,2025-08-02,2743,Jessica Holmes,Asia Pacific
+83764da6-aa06-4856-ad90-e8f8c90b2929,Tommy Walter,tommy.walter@example.com,Finance,Office Supplies,"Mcdaniel, Bentley and Mclaughlin",30.29,USD,2025-09-15,7216,Michael Lewis,Asia Pacific
+4c249107-4e66-480d-9fb7-dcba26e5aa97,Judy Baker,judy.baker@example.com,Sales,Client Entertainment,"Harper, Smith and Buchanan",91.09,USD,2025-03-21,4752,Shannon Jones,North America
+01011b6f-4b8b-47db-9e6a-47e935535682,Brittany Farmer,brittany.farmer@example.com,Marketing,Lodging,Robinson-Brock,454.65,USD,2025-06-15,2827,Brent Jordan,Asia Pacific
+cc64b47b-dc95-4a1b-b764-934e672ff7e5,Patty Perez,patty.perez@example.com,Marketing,Meals,Jones LLC,160.9,USD,2025-08-20,2169,Jessica Holmes,Europe
+45712326-bbb2-4039-ac8f-aba60e36c1d1,Debra Davidson,debra.davidson@example.com,Sales,Office Supplies,"Matthews, Smith and Hubbard",110.09,USD,2025-08-03,2796,Brent Jordan,Europe
+55eec32f-31cb-4919-83b9-179c58eb659f,Eric Carney,eric.carney@example.com,Finance,Client Entertainment,Davis PLC,676.34,USD,2025-12-10,2133,Brent Jordan,Europe
+62581ea4-7ea8-4f9b-b1f8-157ddad99be5,Zachary Hicks,zachary.hicks@example.com,Engineering,Travel,Garcia-Smith,1459.22,USD,2025-04-29,9179,Timothy Duncan,Latin America
+cb83f0cc-aada-4ba4-b2e1-283665a5832e,Stephanie Ross,stephanie.ross@example.com,Sales,Office Supplies,"Stanley, Tucker and Lee",145.44,USD,2025-10-11,4456,Jessica Holmes,Asia Pacific
+e3cf66a0-c3db-463e-a9a6-be8db7c76fc5,Tommy Walter,tommy.walter@example.com,Finance,Software,Wagner-King,357.61,USD,2025-11-20,7216,Brent Jordan,Asia Pacific
+53dfdbaa-9f4f-4620-a001-f50a5d2cb0a9,Cassandra Gaines,cassandra.gaines@example.com,Operations,Client Entertainment,Moore-Bass,79.81,USD,2025-02-01,5119,Timothy Duncan,North America
+ea04bb3f-2787-465c-9ae9-2636db2f314c,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Travel,"Choi, Garcia and Farmer",1012.1,USD,2025-05-06,3340,Danny Morgan,Asia Pacific
+0b377b0b-89b6-499b-b45e-50f7c8d50607,Zachary Hicks,zachary.hicks@example.com,Engineering,Software,"Beard, Peters and Black",409.51,USD,2025-01-20,9179,Shannon Jones,Latin America
+1207ffa0-d4ee-457b-a241-f626aa533b41,Debra Davidson,debra.davidson@example.com,Sales,Lodging,Schmidt PLC,230.64,USD,2025-06-04,2796,Shannon Jones,Europe
+eadf2cd4-7067-42f6-9bbe-0f63652d2d7f,John Pierce,john.pierce@example.com,Sales,Travel,Marshall-Peterson,1248.25,USD,2025-11-14,2832,Jessica Holmes,Asia Pacific
+2e32f7e7-0b26-4cd5-9acd-b8e086b84dc5,Dylan Miller,dylan.miller@example.com,Finance,Office Supplies,"Becker, Wilson and Hester",97.15,USD,2025-01-24,2291,Brent Jordan,Asia Pacific
+647ea261-1666-4ac2-b80e-a8083499bc18,Connie Lawrence,connie.lawrence@example.com,Engineering,Software,Boyle-Smith,1130.73,USD,2025-08-20,9279,John Daniel,North America
+48409804-8928-48fc-913a-952aaa5941db,Gina Moore,gina.moore@example.com,Engineering,Office Supplies,"Pollard, Simpson and Johnson",289.24,USD,2025-02-24,8359,Mark Perez,Asia Pacific
+fbdadcc2-ac49-4e15-9a91-b90e0ef14f90,Abigail Shaffer,abigail.shaffer@example.com,Operations,Client Entertainment,Santos-Avila,739.36,USD,2025-03-31,4257,Mark Perez,Latin America
+c64bff13-8393-4de1-a2be-0aeb628464f9,Matthew Foster,matthew.foster@example.com,Operations,Office Supplies,"Mitchell, Nelson and Flores",11.71,USD,2025-05-17,4598,Shannon Jones,Asia Pacific
+73770110-b0b2-43d0-a8f3-42a847168734,Jamie Arnold,jamie.arnold@example.com,Sales,Office Supplies,"Rodriguez, Brennan and Garrison",17.19,USD,2025-10-14,7224,Michael Lewis,North America
+92c25073-4792-455a-a6f5-e3385b250abb,Sherri Baker,sherri.baker@example.com,Finance,Meals,Estrada-Nolan,27.69,USD,2025-10-25,7252,Brent Jordan,Latin America
+468ba853-0473-4f20-af06-29f80798e4ff,Patty Perez,patty.perez@example.com,Marketing,Lodging,"Patel, Erickson and Evans",113.21,USD,2025-06-24,2169,Michael Lewis,Europe
+d5d96575-9208-4e70-a8c8-2f92ed9f3980,Debra Davidson,debra.davidson@example.com,Sales,Travel,"Miller, Harrell and Reese",1932.67,USD,2025-08-12,2796,Mark Perez,Europe
+d524fe89-e5cd-4862-be68-5f308e62acb7,Margaret Hawkins DDS,margaret.hawkins.dds@example.com,Marketing,Software,"Allen, Armstrong and Graves",792.29,USD,2025-07-27,6820,Michael Lewis,Europe
+9e01df9b-d274-4efe-80d6-3c8280b51b36,Dylan Miller,dylan.miller@example.com,Finance,Travel,"Walker, Hernandez and Baker",1438.2,USD,2025-02-15,2291,Crystal Robinson,Asia Pacific
+01185464-558f-4306-a2c2-0951b5d6bfaa,Brian Ramirez,brian.ramirez@example.com,Operations,Meals,Holmes-Mcintyre,24.39,USD,2025-12-18,6925,Brent Jordan,Europe
+f13efa13-dea0-42ec-986d-c13dc592a844,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Meals,"Becker, Lara and Baker",150.56,USD,2025-05-17,3340,Crystal Robinson,Asia Pacific
+9f64b642-3a4e-451b-9680-4435d5b9767a,James Ferrell,james.ferrell@example.com,Operations,Software,"Mckee, Gardner and Davenport",1815.41,USD,2025-11-25,8019,Jessica Holmes,Latin America
+7213ce21-0c66-482f-a7fa-01183167db36,James Ferrell,james.ferrell@example.com,Operations,Meals,"Mcdonald, Lee and Rodriguez",80.83,USD,2025-05-26,8019,Timothy Duncan,Latin America
+1cf09d1d-4ebf-42e0-9f76-6350e4cf0d0f,John Pierce,john.pierce@example.com,Sales,Office Supplies,Hoffman Ltd,95.61,USD,2025-03-18,2832,Michael Lewis,Asia Pacific
+3f53d107-fce5-4cf2-8931-2f6eca42408b,Lisa Jackson,lisa.jackson@example.com,Sales,Lodging,Jimenez Ltd,309.57,USD,2025-01-29,7227,Richard Aguirre,Asia Pacific
+55646211-05f5-4f2a-9f6a-338ff676ef29,Brian Ramirez,brian.ramirez@example.com,Operations,Office Supplies,White Ltd,17.62,USD,2025-08-04,6925,John Daniel,Europe
+ae31bf0c-a46a-4eff-90d1-7ecc77b84c4e,James Ferrell,james.ferrell@example.com,Operations,Client Entertainment,Davis-Lewis,550.35,USD,2025-01-18,8019,Mark Perez,Latin America
+06f1ca96-e269-4412-a4f6-bafbb829b1bd,Brian Ramirez,brian.ramirez@example.com,Operations,Lodging,Thompson Ltd,355.98,USD,2025-02-10,6925,John Daniel,Europe
+162b8654-ae92-4074-9736-e774e66aea38,Zachary Hicks,zachary.hicks@example.com,Engineering,Office Supplies,Mckee-Lee,207.23,USD,2025-05-14,9179,Crystal Robinson,Latin America
+31179e33-d5b7-4f2d-83bc-408f6dd27a34,Brittany Farmer,brittany.farmer@example.com,Marketing,Lodging,"Lucas, Parker and Alexander",325.85,USD,2025-10-04,2827,Michael Lewis,Asia Pacific
+3f297b2d-c914-41f0-a750-b83680ac400d,Cassandra Gaines,cassandra.gaines@example.com,Operations,Lodging,Brooks-Hatfield,462.86,USD,2025-09-01,5119,Timothy Duncan,North America
+aa2355ba-4e8e-4c9c-b5da-8e23386c3095,Connie Lawrence,connie.lawrence@example.com,Engineering,Software,Pollard and Sons,687.1,USD,2025-06-11,9279,Crystal Robinson,North America
+0570da72-9db7-4ac1-ad84-ef3630e270ff,Zachary Hicks,zachary.hicks@example.com,Engineering,Travel,Ramos PLC,818.93,USD,2025-01-25,9179,Michael Lewis,Latin America
+608065f1-56a5-4a57-bbe2-91f4bc7b7ed1,Sherry Decker,sherry.decker@example.com,Operations,Office Supplies,Blevins-Ballard,14.56,USD,2025-07-26,2743,Brent Jordan,Asia Pacific
+bf816c87-f000-4895-b0af-50457a1c4fb8,Dylan Miller,dylan.miller@example.com,Finance,Office Supplies,Russell-Daniels,73.63,USD,2025-06-19,2291,Richard Aguirre,Asia Pacific
+4d3299e8-a5a9-4ad1-9842-f1ac5fe04402,Patty Perez,patty.perez@example.com,Marketing,Client Entertainment,Wilkerson-Arias,80.9,USD,2025-12-02,2169,Jessica Holmes,Europe
+69bd6f51-68e5-4273-b517-b1f8467d7f58,Gabrielle Davis,gabrielle.davis@example.com,Sales,Lodging,Wright-Grimes,441.32,USD,2025-02-16,3615,Crystal Robinson,Latin America
+ddbb50a4-8c50-40a5-8c7d-f7e3a19f61fa,Ryan Munoz,ryan.munoz@example.com,Marketing,Office Supplies,Hancock and Sons,46.96,USD,2025-04-30,5552,Michael Lewis,Europe
+dec7cb05-45d0-4e22-b187-49b018558886,Margaret Hawkins DDS,margaret.hawkins.dds@example.com,Marketing,Travel,Newton and Sons,127.01,USD,2025-08-30,6820,John Daniel,Europe
+23a14955-b4ea-45f9-bcb0-a7cf0ab0f144,Angie Henderson,angie.henderson@example.com,Sales,Software,"Anderson, Roberts and Gilmore",1602.48,USD,2025-04-24,9935,Michael Lewis,North America
+dbe7c336-7356-4dc3-a51e-5a62a3dd99ce,Holly Wood,holly.wood@example.com,Sales,Meals,"Nelson, Morton and Medina",37.32,USD,2025-03-16,1750,Michael Lewis,Europe
+69dfdd1a-bae9-4dcf-a791-82133ead1007,Judy Baker,judy.baker@example.com,Sales,Travel,Suarez LLC,2830.63,USD,2025-08-10,4752,Mark Perez,North America
+a02d8748-e38f-4fb2-b082-b16e567f9868,Jeffrey Chavez,jeffrey.chavez@example.com,Engineering,Lodging,Stevens PLC,476.26,USD,2025-05-12,7916,Shannon Jones,North America
+c519cc23-2064-4a94-bd20-27628e2896ae,Abigail Shaffer,abigail.shaffer@example.com,Operations,Meals,Young Ltd,179.14,USD,2025-02-22,4257,Timothy Duncan,Latin America
+2943352d-8450-49d9-b1cb-aa1c6f870018,Cristian Santos,cristian.santos@example.com,Sales,Client Entertainment,"Baker, Clark and Armstrong",134.16,USD,2025-11-18,2535,Brent Jordan,Europe
+05245f49-4014-4efe-b5de-4d72ccb957ab,Elizabeth Fowler,elizabeth.fowler@example.com,Sales,Lodging,King-York,408.15,USD,2025-01-14,9797,Crystal Robinson,Asia Pacific
+7287cfd8-85f5-4ccb-bb6c-a192fc2b7cf2,Shane Henderson,shane.henderson@example.com,Marketing,Travel,"Smith, Garrison and Thomas",1365.04,USD,2025-06-28,4923,Danny Morgan,North America
+3b283feb-8327-4246-85de-70cc4968fabf,Justin Baker,justin.baker@example.com,Marketing,Meals,Barnes PLC,193.1,USD,2025-12-17,7572,Crystal Robinson,Asia Pacific
+2d190ea3-3212-4586-a86c-1a73f3c2069a,Tommy Walter,tommy.walter@example.com,Finance,Client Entertainment,Harper and Sons,218.18,USD,2025-03-20,7216,Crystal Robinson,Asia Pacific
+4f06c646-7223-4c6d-ac4c-0d711598628f,Rebecca Henderson,rebecca.henderson@example.com,Engineering,Travel,Anderson-Wood,932.56,USD,2025-03-11,5040,Crystal Robinson,Asia Pacific
+bbd0e208-2001-4dc7-b61e-d787595b77b7,Lisa Jackson,lisa.jackson@example.com,Sales,Meals,Christensen PLC,81.76,USD,2025-04-28,7227,Jessica Holmes,Asia Pacific
+3e1788e5-4ef6-493e-b718-33bec7d4015b,Tricia Valencia,tricia.valencia@example.com,Marketing,Travel,"Joyce, Wilson and Lam",1217.07,USD,2025-08-12,4593,Mark Perez,Europe
+24ea749e-794c-4502-a169-58c5d114b55b,Nathan Maldonado,nathan.maldonado@example.com,Operations,Office Supplies,Johnson-Spencer,267.89,USD,2025-02-22,9085,Brent Jordan,North America
+04fdc4cc-cad9-45e4-b755-340dc9c186da,Brian Ramirez,brian.ramirez@example.com,Operations,Lodging,"Burke, Martinez and Riggs",250.7,USD,2025-08-04,6925,Mark Perez,Europe
+3e053c27-462b-447b-89a2-0b1f287cab4a,Debra Davidson,debra.davidson@example.com,Sales,Travel,"Robinson, Jones and Henderson",480.73,USD,2025-03-10,2796,Michael Lewis,Europe
+390386ff-2248-4982-9060-c11f152e013c,Brian Ramirez,brian.ramirez@example.com,Operations,Meals,"Barry, Taylor and Velazquez",70.64,USD,2025-10-02,6925,Crystal Robinson,Europe
+51207f7a-876e-4ac4-afa7-12ca1f2c0289,Debra Davidson,debra.davidson@example.com,Sales,Lodging,Smith-Frost,382.16,USD,2025-10-16,2796,Mark Perez,Europe
+e6d1490f-db40-4c55-b52f-4b7441ce9d9b,Judy Baker,judy.baker@example.com,Sales,Lodging,"Daniels, Adkins and Brown",222.51,USD,2025-12-01,4752,Danny Morgan,North America
+555a041b-4c9a-452f-b325-1fb9c1765c99,Stephanie Ross,stephanie.ross@example.com,Sales,Travel,Erickson and Sons,1679.23,USD,2025-09-09,4456,Crystal Robinson,Asia Pacific
+dbd0e0e7-00ee-40b8-9779-fdf7fff8d371,Michele Williams,michele.williams@example.com,Sales,Lodging,"Patterson, Smith and Jones",346.38,USD,2025-04-13,8527,Brent Jordan,North America
+a8f3ba45-5273-416d-ba80-842ab90e1759,Philip Cannon,philip.cannon@example.com,Operations,Client Entertainment,Ballard Ltd,416.62,USD,2025-12-16,6310,Brent Jordan,Latin America
+9d5ecddf-d89b-4d42-962a-dcb998818c4b,Cristian Santos,cristian.santos@example.com,Sales,Meals,"Marks, Cook and Aguilar",159.03,USD,2025-05-23,2535,Michael Lewis,Europe
+268dacd6-0dda-4ce8-abf4-3689e68cc92c,Matthew Foster,matthew.foster@example.com,Operations,Office Supplies,Johnston-Hines,280.53,USD,2025-12-04,4598,Mark Perez,Asia Pacific
+5e7f94e5-aefe-46af-8382-2369164af103,Carla Gray,carla.gray@example.com,Finance,Office Supplies,Gibson-Morris,19.68,USD,2025-05-22,6977,Crystal Robinson,Europe
+a72f7bd0-16a0-4046-8baf-686a45d720ca,Justin Baker,justin.baker@example.com,Marketing,Lodging,Gonzalez Group,442.91,USD,2025-11-11,7572,Mark Perez,Asia Pacific
+0e7af66d-43c2-4feb-8b58-6d2f9c654f5a,Jeffrey Chavez,jeffrey.chavez@example.com,Engineering,Travel,"Brown, Harris and Dougherty",2163.06,USD,2025-07-20,7916,Danny Morgan,North America
+965142ea-8b84-4e38-9ed0-6fb6f6993ea2,Cristian Santos,cristian.santos@example.com,Sales,Client Entertainment,Hayes and Sons,524.92,USD,2025-07-26,2535,Brent Jordan,Europe
+71d51368-b8fb-4911-9fa3-787b4d2906db,Daniel Wagner,daniel.wagner@example.com,Operations,Office Supplies,Robinson-Lee,255.72,USD,2025-06-15,7912,Danny Morgan,North America
+222a73fe-691c-4d5b-8cd2-18e127949d07,Dylan Miller,dylan.miller@example.com,Finance,Lodging,Green LLC,177.79,USD,2025-02-08,2291,Timothy Duncan,Asia Pacific
+3b88b4c2-cddb-4375-b5b5-3110d972de20,Judy Baker,judy.baker@example.com,Sales,Software,Reyes-Bradley,1911.49,USD,2025-11-09,4752,Crystal Robinson,North America
+e67bc2e1-a799-4e31-aad4-bae37b1dd66a,Cassandra Gaines,cassandra.gaines@example.com,Operations,Office Supplies,Nunez-Stephens,2726.81,USD,2025-09-26,5119,Brent Jordan,North America
+5f9fe647-d79a-4cd7-86f7-cda2f86c823c,Dylan Miller,dylan.miller@example.com,Finance,Office Supplies,Reid Group,255.09,USD,2025-10-26,2291,John Daniel,Asia Pacific
+951dfdd6-7140-4871-ad4e-e428d1f104cb,Tommy Walter,tommy.walter@example.com,Finance,Office Supplies,Martinez-Dudley,52.22,USD,2025-07-26,7216,Timothy Duncan,Asia Pacific
+8377331b-18fa-46eb-bed9-ea3af1224b04,Elizabeth Fowler,elizabeth.fowler@example.com,Sales,Travel,Sheppard LLC,2679.33,USD,2025-10-13,9797,Michael Lewis,Asia Pacific
+33891f02-07f0-433d-b3f9-373642d724e2,Philip Cannon,philip.cannon@example.com,Operations,Meals,"Taylor, Wright and Davidson",79.01,USD,2025-07-21,6310,Shannon Jones,Latin America
+e75358e2-ecc6-4a84-bdbd-8834ed4c4605,Stephanie Ross,stephanie.ross@example.com,Sales,Client Entertainment,"Jones, Compton and Day",295.94,USD,2025-06-05,4456,Danny Morgan,Asia Pacific
+8b997f69-af63-4c4b-8b50-4f130f8ddf8d,Derek Zuniga,derek.zuniga@example.com,Marketing,Office Supplies,"Hurst, Freeman and Nelson",83.16,USD,2025-02-01,2307,Richard Aguirre,Europe
+86533de6-076f-40f5-bb2c-79187ab1d899,Sherry Decker,sherry.decker@example.com,Operations,Software,"Wise, Conley and Stephenson",1433.6,USD,2025-08-02,2743,Brent Jordan,Asia Pacific
+7233dd82-7f84-4da7-bb06-0fd60f4d4d60,Holly Wood,holly.wood@example.com,Sales,Client Entertainment,"Morgan, Hensley and Wright",704.32,USD,2025-06-14,1750,Mark Perez,Europe
+c6157d17-3e63-414e-b6a8-e3e521893dfc,Shane Henderson,shane.henderson@example.com,Marketing,Office Supplies,Thompson Ltd,101.84,USD,2025-02-11,4923,Danny Morgan,North America
+0699515d-77da-4d1c-b99f-73f9beb52d65,Brian Ramirez,brian.ramirez@example.com,Operations,Meals,Riggs PLC,136.37,USD,2025-01-03,6925,Danny Morgan,Europe
+36d2e5b8-ac47-4ad2-9328-f726086e84b3,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Software,Valentine-Holland,1350.34,USD,2025-12-16,3340,Richard Aguirre,Asia Pacific
+d26da6fa-7750-43e7-b073-c1731ffc38d9,Gabrielle Davis,gabrielle.davis@example.com,Sales,Software,Harris-Walters,1767.69,USD,2025-12-08,3615,Mark Perez,Latin America
+f58e5eb8-778a-4f68-aa3d-f3c2bf745252,Brian Ramirez,brian.ramirez@example.com,Operations,Meals,Williams-Campbell,27.45,USD,2025-08-19,6925,Jessica Holmes,Europe
+4241c5c9-d2a5-4b24-9ad7-d6b083446768,Lisa Hensley,lisa.hensley@example.com,Marketing,Software,King-Smith,1128.78,USD,2025-01-29,6635,Timothy Duncan,Asia Pacific
+2cb0009c-d3e0-4b81-84f7-0dc91c523430,Lisa Jackson,lisa.jackson@example.com,Sales,Travel,Osborne LLC,1763.08,USD,2025-07-30,7227,Timothy Duncan,Asia Pacific
+f1582110-0a2e-491d-9065-47de45865cb1,Lisa Jackson,lisa.jackson@example.com,Sales,Software,Jones-Lin,1731.17,USD,2025-01-19,7227,Michael Lewis,Asia Pacific
+d723c53f-8da3-48bb-8cef-14659ef9f478,Angelica Tucker,angelica.tucker@example.com,Marketing,Meals,Manning Group,145.69,USD,2025-01-25,3646,Timothy Duncan,North America
+820d1c3b-08fb-4857-b55c-8aff051bf216,Tricia Valencia,tricia.valencia@example.com,Marketing,Meals,Wilson-Jimenez,168.74,USD,2025-02-05,4593,Mark Perez,Europe
+30458c38-7c4c-44a5-970d-38ed63d46ce7,Carla Gray,carla.gray@example.com,Finance,Meals,Osborn Group,119.33,USD,2025-08-09,6977,Timothy Duncan,Europe
+e44045a6-3abf-43fd-9921-5edb770db0ce,Joshua Blair,joshua.blair@example.com,Engineering,Lodging,Berry-Mckinney,277.03,USD,2025-08-27,2290,Jessica Holmes,North America
+30b4e74c-c79f-4c3e-8667-6dcd63e709f4,Michele Williams,michele.williams@example.com,Sales,Client Entertainment,Santana-Byrd,211.96,USD,2025-12-04,8527,Mark Perez,North America
+8afb9c77-35f9-41d0-aec6-c5c39b653243,Anthony Humphrey,anthony.humphrey@example.com,Operations,Lodging,Novak PLC,493.35,USD,2025-02-08,4258,Jessica Holmes,Europe
+9eeea594-d069-474a-b963-437719604b14,Abigail Shaffer,abigail.shaffer@example.com,Operations,Client Entertainment,Schmitt PLC,558.78,USD,2025-04-21,4257,Shannon Jones,Latin America
+cb6e567b-2506-4b0b-a3c5-f847ef421967,Gina Moore,gina.moore@example.com,Engineering,Meals,Lee-Cooke,172.77,USD,2025-06-25,8359,Crystal Robinson,Asia Pacific
+b263f582-113b-4c21-9909-790141af63e3,Jamie Arnold,jamie.arnold@example.com,Sales,Meals,Price LLC,119.77,USD,2025-06-05,7224,Danny Morgan,North America
+5b6046f7-bd3c-4c43-9845-e99b5fcc45ed,Cassandra Gaines,cassandra.gaines@example.com,Operations,Office Supplies,"Duran, Obrien and Gibbs",194.09,USD,2025-07-10,5119,Danny Morgan,North America
+9e93f2e2-f552-44b6-b7a4-5ddf3f8262b9,Shane Henderson,shane.henderson@example.com,Marketing,Client Entertainment,"Anderson, Dalton and Wilson",468.02,USD,2025-08-04,4923,Shannon Jones,North America
+7918d4c5-9f88-451f-82dc-99c772e2add0,Brittany Farmer,brittany.farmer@example.com,Marketing,Meals,"Huber, Hill and Weber",55.54,USD,2025-02-21,2827,Richard Aguirre,Asia Pacific
+5f9d97e5-2379-4c6a-8b5f-0a04276ab644,Debra Davidson,debra.davidson@example.com,Sales,Travel,Andersen Group,491.87,USD,2025-03-12,2796,Danny Morgan,Europe
+2526f8b3-cc60-41b5-858a-c6df62d00cea,Allison Hill,allison.hill@example.com,Sales,Travel,"Edwards, Hines and Jimenez",2937.62,USD,2025-06-29,1409,Brent Jordan,Asia Pacific
+efd18cf9-88d6-4848-a842-d87ecf641508,Derek Zuniga,derek.zuniga@example.com,Marketing,Meals,"Evans, Hayden and Vaughn",197.69,USD,2025-07-29,2307,Shannon Jones,Europe
+23012701-ce9a-4ef8-8070-283d7465c792,Angelica Tucker,angelica.tucker@example.com,Marketing,Lodging,Mcdowell-Smith,112.94,USD,2025-10-17,3646,Michael Lewis,North America
+83dc89b9-71de-4530-9c0b-cc2cc3ea3af3,Jamie Arnold,jamie.arnold@example.com,Sales,Software,"Rodgers, Jefferson and Johnson",80.53,USD,2025-03-22,7224,John Daniel,North America
+5d824845-64af-4d21-8636-197c71a3b444,Angie Henderson,angie.henderson@example.com,Sales,Software,Moon-White,1502.18,USD,2025-10-01,9935,Timothy Duncan,North America
+7515f936-e06e-4808-bb7c-a7a4e1dfdc45,Anthony Humphrey,anthony.humphrey@example.com,Operations,Meals,"Mendoza, Jenkins and Ortiz",47.47,USD,2025-11-29,4258,Timothy Duncan,Europe
+5d92c9f3-e329-4a95-8115-0ed6667fdc75,Brian Ramirez,brian.ramirez@example.com,Operations,Lodging,"Smith, Rodriguez and Anderson",98.58,USD,2025-06-20,6925,Mark Perez,Europe
+7182da1a-975a-4707-9df5-3e3dd75d93ed,Fred Smith,fred.smith@example.com,Sales,Client Entertainment,"Rivera, Johnson and Wiley",349.76,USD,2025-11-24,5315,Brent Jordan,Europe
+588216be-e6b0-4161-9361-47fbaa969679,Allison Hill,allison.hill@example.com,Sales,Lodging,Parker Ltd,221.59,USD,2025-04-25,1409,John Daniel,Asia Pacific
+fa01229c-b5cd-449c-87e6-3aaa430d89b7,Angelica Tucker,angelica.tucker@example.com,Marketing,Client Entertainment,Morris-Brewer,406.63,USD,2025-01-19,3646,Danny Morgan,North America
+6938896f-46ff-4f79-8001-3c3fb00950c9,James Ferrell,james.ferrell@example.com,Operations,Lodging,Byrd-Le,462.07,USD,2025-01-29,8019,Danny Morgan,Latin America
+5fdd2f6f-adac-4530-86eb-3a8e6372d756,Anthony Rodriguez,anthony.rodriguez@example.com,Finance,Software,Donovan-Harris,874.86,USD,2025-10-11,3340,Brent Jordan,Asia Pacific
+25e2cb56-f25a-4d15-bbf5-1d88351a488b,Matthew Foster,matthew.foster@example.com,Operations,Office Supplies,"Hoffman, Santiago and Jenkins",234.59,USD,2025-09-21,4598,John Daniel,Asia Pacific
+000f6295-e6b4-4131-a315-046efab5637f,Angelica Tucker,angelica.tucker@example.com,Marketing,Software,Johnson and Sons,317.68,USD,2025-08-28,3646,John Daniel,North America
+90677abf-701a-40e0-9bf8-723905312a50,Derek Zuniga,derek.zuniga@example.com,Marketing,Client Entertainment,Harrison-Alexander,454.99,USD,2025-06-20,2307,Danny Morgan,Europe
+7c18e271-e320-47bc-a42b-12c38a0f0e2b,Patty Perez,patty.perez@example.com,Marketing,Meals,Bass PLC,83.46,USD,2025-10-08,2169,Michael Lewis,Europe
+ce2775d7-56da-4413-a554-f7b937ece889,James Ferrell,james.ferrell@example.com,Operations,Travel,Bailey-Cook,466.11,USD,2025-08-18,8019,Michael Lewis,Latin America
+187a1d00-f134-4021-a08c-b8966602d3b2,Eric Carney,eric.carney@example.com,Finance,Software,"Henderson, Cox and Cox",1422.87,USD,2025-03-25,2133,John Daniel,Europe
+c089971e-292d-4ae7-87f8-d2de961d3da6,Patty Perez,patty.perez@example.com,Marketing,Client Entertainment,Blake Group,157.75,USD,2025-12-01,2169,Michael Lewis,Europe
+a193fa26-bddb-4826-b6ed-c5113c675743,Margaret Hawkins DDS,margaret.hawkins.dds@example.com,Marketing,Client Entertainment,May-Turner,381.38,USD,2025-09-22,6820,Mark Perez,Europe
+e5979452-5b24-4ec8-a157-9af4336f520b,Philip Cannon,philip.cannon@example.com,Operations,Lodging,Graham Group,220.82,USD,2025-02-26,6310,Crystal Robinson,Latin America
+393145df-6c8f-4a41-8faf-80dc3d207bc8,Fred Smith,fred.smith@example.com,Sales,Meals,Edwards-Scott,74.48,USD,2025-07-04,5315,Brent Jordan,Europe
+d066eb6d-9e7e-446a-bc79-f93af31b66d5,Noah Rhodes,noah.rhodes@example.com,Engineering,Travel,"Wood, Hunter and Peterson",953.28,USD,2025-06-07,4657,Mark Perez,Europe
+155e9da6-69f3-44aa-8b4d-6aa85aaec268,Noah Rhodes,noah.rhodes@example.com,Engineering,Office Supplies,Brown-Wall,107.48,USD,2025-09-21,4657,Timothy Duncan,Europe
+ee70341a-24d5-48f4-ba9c-8575bf8ca3b4,Connie Lawrence,connie.lawrence@example.com,Engineering,Software,"Miller, Lucas and Williams",1338.79,USD,2025-04-30,9279,Richard Aguirre,North America
+66e219cc-6296-4825-b975-4231d1639126,Holly Wood,holly.wood@example.com,Sales,Meals,Bryant Group,170.37,USD,2025-04-18,1750,Brent Jordan,Europe
+5ec5934f-def2-48ea-8681-3af5cdd9c866,Michele Williams,michele.williams@example.com,Sales,Meals,"Richardson, Edwards and Ramirez",168.17,USD,2025-04-16,8527,Brent Jordan,North America
+87431a79-635c-4847-9924-d300c198d879,Angie Henderson,angie.henderson@example.com,Sales,Office Supplies,Ware and Sons,115.65,USD,2025-10-07,9935,Mark Perez,North America
+683cb931-b21e-452e-8575-d56addcba7a0,Paula Moreno,paula.moreno@example.com,Finance,Meals,"Burns, Hernandez and Ryan",129.86,USD,2025-09-21,3591,Crystal Robinson,Latin America
+73d9a0b6-08f7-4795-8443-b70628a060ee,Fred Smith,fred.smith@example.com,Sales,Client Entertainment,Contreras-Mckinney,224.17,USD,2025-10-14,5315,Jessica Holmes,Europe
+2bdb035c-92cf-4704-a497-09912a629666,Brittany Farmer,brittany.farmer@example.com,Marketing,Client Entertainment,Jackson-Lawson,630.98,USD,2025-06-30,2827,Timothy Duncan,Asia Pacific
+1c2e669a-11cf-40fc-9a83-22ea3e724015,Daniel Wagner,daniel.wagner@example.com,Operations,Meals,Sandoval-Cunningham,85.11,USD,2025-06-01,7912,Shannon Jones,North America
+76df4f8a-8004-40ab-b602-98a171d37233,Carla Gray,carla.gray@example.com,Finance,Software,"Bentley, Byrd and Orr",459.86,USD,2025-11-02,6977,John Daniel,Europe
+c23a892a-bd9d-4ae3-ba87-2f176ef2ea02,Noah Rhodes,noah.rhodes@example.com,Engineering,Lodging,Johnson-Rogers,306.56,USD,2025-05-16,4657,Mark Perez,Europe
+48cb405b-c5e5-4374-a886-240141d88d3d,Brittany Farmer,brittany.farmer@example.com,Marketing,Lodging,"Turner, Ortiz and Taylor",349.93,USD,2025-01-11,2827,John Daniel,Asia Pacific
+4e8e6a0b-5d1d-4d4a-9f51-46bbd8ee447f,Judy Baker,judy.baker@example.com,Sales,Client Entertainment,Blackwell LLC,604.49,USD,2025-04-27,4752,John Daniel,North America
+478a37a5-c904-4ce9-a934-941c75754146,Sherri Baker,sherri.baker@example.com,Finance,Lodging,Smith-Bell,91.38,USD,2025-09-07,7252,Timothy Duncan,Latin America

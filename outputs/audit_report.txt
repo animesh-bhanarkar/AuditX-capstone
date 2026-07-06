@@ -1,0 +1,55 @@
+# Audit Report: Fraud and Compliance Findings
+
+**Report Date:** 2026-07-06
+
+Executive Summary
+
+This audit report details findings from an analysis of expense data. A total of 23 findings were identified, comprising 8 high-severity and 15 medium-severity issues. High-severity findings include instances of expense structuring, where multiple smaller expenses were submitted by an individual within a short timeframe, and duplicate expense claims. Medium-severity findings highlight significant spikes in departmental spending categories that exceeded predefined thresholds and individual expenses that were statistical outliers.
+
+---
+
+### Findings
+
+#### High Severity Findings
+
+**Structuring:**
+This type of finding indicates a pattern where an employee submits multiple expenses, each individually below a certain threshold, within a short period. This behavior may suggest an attempt to circumvent higher approval requirements that would apply to a single, larger expense.
+
+*   **Brian Ramirez:** Submitted 3 expenses totalling $412.63 between 2025-06-20 and 2025-06-24. Each individual expense was under $500.00. The expenses were: $263.86 from Reynolds Ltd, $98.58 from Smith, Rodriguez and Anderson, and $50.19 from Woods, Calhoun and Schmidt.
+*   **Brittany Farmer:** Submitted 3 expenses totalling $519.39 between 2025-05-28 and 2025-06-04. Each individual expense was under $500.00. The expenses were: $158.50 from Holt-Torres, $70.22 from Smith, Gilmore and Johnston, and $290.67 from Diaz-Ball.
+*   **Debra Davidson:** Submitted 4 expenses totalling $1,948.82 between 2025-03-10 and 2025-03-13. Each individual expense was under $500.00. The expenses were: $480.73 from Robinson, Jones and Henderson, $494.03 from Brown, Mcknight and Michael, $491.87 from Andersen Group, and $482.19 from Mitchell and Sons.
+*   **Lisa Jackson:** Submitted 4 expenses totalling $1,584.04 between 2025-07-07 and 2025-07-10. Each individual expense was under $500.00. The expenses were: $481.79 from Combs Ltd, $265.45 from Warner-Gibson, $371.88 from Marks, Miller and Griffin, and $464.92 from Bean LLC.
+*   **Shane Henderson:** Submitted 3 expenses totalling $1,404.06 between 2025-08-21 and 2025-08-26. Each individual expense was under $500.00. The expenses were: $468.02 from Cannon Ltd, $468.02 from Stuart, Brooks and Vance, and $468.02 from Kane-Knox.
+
+**Duplicate Claim:**
+This finding indicates that identical expense claims were submitted and potentially processed more than once by the same employee for the same vendor and amount on the same date.
+
+*   **Anthony Rodriguez:** Submitted two identical expenses for $1,012.10 at Choi, Garcia and Farmer on 2025-05-06.
+*   **Jeffrey Chavez:** Submitted two identical expenses for $424.43 at Wright, Garcia and Deleon on 2025-12-09.
+*   **Lisa Jackson:** Submitted two identical expenses for $23.10 at Welch-Hogan on 2025-03-19.
+
+#### Medium Severity Findings
+
+**Category Spend Spike:**
+This type of finding highlights instances where a specific department's spending in a particular expense category for a given month significantly exceeded its historical average for that category (by more than 2.5 times).
+
+*   **Engineering / Client Entertainment:** Spending in 2025-08 was $2,313.67, which is 3.0 times the average of other months ($778.11).
+*   **Engineering / Lodging:** Spending in 2025-05 was $4,933.29, which is 9.4 times the average of other months ($522.89).
+*   **Engineering / Meals:** Spending in 2025-07 was $1,628.55, which is 10.7 times the average of other months ($152.23).
+*   **Engineering / Software:** Spending in 2025-02 was $17,664.47, which is 9.1 times the average of other months ($1,950.81).
+*   **Finance / Client Entertainment:** Spending in 2025-12 was $1,719.40, which is 4.6 times the average of other months ($371.00).
+*   **Marketing / Client Entertainment:** Spending in 2025-08 was $3,242.56, which is 3.0 times the average of other months ($1,080.86).
+*   **Operations / Meals:** Spending in 2025-08 was $1,738.21, which is 9.7 times the average of other months ($178.40).
+*   **Operations / Office Supplies:** Spending in 2025-09 was $2,961.40, which is 8.3 times the average of other months ($357.03).
+*   **Sales / Meals:** Spending in 2025-04 was $782.46, which is 3.3 times the average of other months ($235.35).
+*   **Sales / Office Supplies:** Spending in 2025-03 was $957.83, which is 3.2 times the average of other months ($302.96).
+*   **Sales / Software:** Spending in 2025-10 was $5,598.21, which is 2.6 times the average of other months ($2,166.33).
+
+**Statistical Outlier:**
+This finding identifies individual expenses that are significantly higher than the typical expenses within their respective categories, as indicated by a high z-score.
+
+*   **Zachary Hicks:** Submitted a Lodging expense of $4,150.47 on 2025-05-26 from Avila LLC. This amount had a z-score of 10.03, significantly above the category mean of $342.14 and standard deviation of $379.62.
+*   **Noah Rhodes:** Submitted a Meals expense of $1,475.97 on 2025-07-07 from Gray, Hall and Murray. This amount had a z-score of 6.04, significantly above the category mean of $148.44 and standard deviation of $219.85.
+*   **Nathan Maldonado:** Submitted a Meals expense of $1,608.54 on 2025-08-05 from Long, Anderson and Irwin. This amount had a z-score of 6.64, significantly above the category mean of $148.44 and standard deviation of $219.85.
+*   **Cassandra Gaines:** Submitted an Office Supplies expense of $2,726.81 on 2025-09-26 from Nunez-Stephens. This amount had a z-score of 9.42, significantly above the category mean of $176.51 and standard deviation of $270.60.
+*   **Connie Lawrence:** Submitted a Software expense of $15,327.80 on 2025-02-15 from Hill Ltd. This amount had a z-score of 9.45, significantly above the category mean of $1,150.64 and standard deviation of $1,500.49.
